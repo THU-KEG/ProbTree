@@ -1,0 +1,33 @@
+Given a qeustion and a context, answer the question and explain why.
+
+#
+Context:
+Which famous fashion show Stella Maxwell has been a model for? Victoria's Secret.
+Since when Victoria's Secret? 1977.
+
+Question:
+Stella Maxwell has been a model for a famous fashion shown since when?
+
+Answer:
+Stella Maxwell has been a model for a famous fashion shown, Victoria's Secret since 2015. So the answer is: since 2015.
+#
+Context:
+Who is the American retired professional basketball player who is current president of basketball operations for the Los Angeles Lakers? Devean George.
+William Novac co-wrote the memoir of Devean George? no.
+
+Question:
+William Novac co-wrote the memoir of what American retired professional basketball player who is current president of basketball operations for the Los Angeles Lakers?
+
+Answer:
+William Novac co-wrote the memoir of Magic Johnson, an American retired professional basketball player who is current president of basketball operations for the Los Angeles Lakers. So the answer is: Magic Johnson.
+#
+Context:
+Which athlete rode 400 miles across his country to bring attention to the plight of the disabled in the country? Emmanuel Ofosu Yeboah.
+What is the title of the documentary narrated by Oprah Winfrey about Emmanuel Ofosu Yeboah? Emmanuel's Gift.
+
+Question:
+Oprah Winfrey narrated a documentary about this athlete who rode 400 miles across his country to bring attention to the plight of the disabled in the country?
+
+Answer:
+Oprah Winfrey narrated a documentary about the athelete Emmanuel Ofosu Yeboah, who rode 400 miles across his country to bring attention to the plight of the disabled in the country. So the answer is: Emmanuel Ofosu Yeboah.
+#

@@ -1,0 +1,44 @@
+Given a qeustion and a context, answer the question and explain why.
+
+#
+Context:
+Who is the director of film Hypocrite? Miguel Morayta.
+When did Miguel Morayta die? 19 June 2013.
+
+Question:
+When did the director of film Hypocrite (Film) die?
+
+Answer:
+The film Hypocrite was directed by Miguel Morayta. Miguel Morayta died on 19 June 2013. So the answer is: 19 June 2013.
+#
+Context:
+When was the director of film Two Weeks With Pay born? November 28, 1919.
+When was the director of film Chhailla Babu born? 24 February 1939.
+
+Question:
+Which film has the director born first, Two Weeks With Pay or Chhailla Babu?
+
+Answer:
+The director of Two Weeks With Pay was born on November 28, 1919. The director of Chhailla Babu With Pay was born on 24 February 1939. Thus, Two Weeks With Pay has the director born first. So the answer is: Two Weeks With Pay.
+#
+Context:
+Where is Phu Luong located? Vietnam.
+Which country is Vietnam in? Southeast Asia.
+
+Question:
+Which country contains Phu Luong?
+
+Answer:
+Phu Luong is located in the country Vietnam. So the answer is: Vietnam.
+#
+Context:
+Who is the mother of Abraham Lincoln? Nancy Hanks Lincoln.
+Who is the father of Nancy Hanks Lincoln? James Hanks.
+Who is the father of James Hanks? Joseph Hanks.
+
+Question:
+Who is the maternal grandfather of Abraham Lincoln?
+
+Answer:
+The mother of Abraham Lincoln is Nancy Hanks Lincoln. The father of Nancy Hanks Lincoln is James Hanks. Thus, the maternal grandfather of Abraham Lincoln is James Hanks. So the answer is: James Hanks.
+#

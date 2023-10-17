@@ -1,0 +1,40 @@
+Given a question and the relevant Wikipedia text, answer the question and explain why. If you are unsure, answer Unknown.
+
+#1 Wikipedia Title: Hypocrite (film)
+Text: Hypocrite (Spanish: Hipócrita..!) is a 1949 Mexican thriller film directed by Miguel Morayta and starring Antonio Badú, Leticia Palma, Carmen Molina and Luis Beristáin. The film included the song "Hipócrita". The film's sets were designed by Francisco Marco Chillet.
+#2 Wikipedia Title: Who? (film)
+Text: Who? is a 1974 film based on the 1958 novel of the same name by Algis Budrys. It was directed by Jack Gold and stars Elliott Gould, Trevor Howard, and Joseph Bova. Some video releases were retitled "The Man in the Steel Mask" or "Roboman".
+#3 Wikipedia Title: Who Is the Guilty?
+Text: Who is the Guilty? ( sometimes" Who is to Blame?") is a 1925 Georgian silent film directed by Alexandre Tsutsunava
+#4 Wikipedia Title: Who Is the Man?
+Text: Who Is The Man?( 1924) is a British silent film drama directed by Walter Summers. The film was based on the successful French play" Daniel" by Louis Verneuil and is notable as the first screen appearance of John Gielgud.
+#5 Wikipedia Title: Deceit (1923 film)
+Text: Deceit( sometimes referred to as The Deceit) is a 1923 American silent black- and- white film. It is a conventional melodrama directed by Oscar Micheaux. Like many of Micheaux\'s films," Deceit" casts clerics in a negative light. Although the film was shot in 1921, it was not released until 1923. It is not known whether the film currently survives, which suggests that it is a lost film. The 1922 film" The Hypocrite" was shown within" Deceit" as a film within a film.
+Q: Who is the director of film Hypocrite (Film)?
+A: The film Hypocrite is directed by Miguel Morayta. So the answer is: Miguel Morayta.
+
+#1 Wikipedia Title: Kurram Garhi
+Text: Kurram Garhi is a small village located near the city of Bannu, which is the part of Khyber Pakhtunkhwa province of Pakistan. Its population is approximately 35000. Barren hills are near this village. This village is on the border of Kurram Agency. Other nearby villages are Peppal, Surwangi and Amandi Kala.
+#2 Wikipedia Title: Kurram Garhi Hydropower Plant
+Text: Kurram Garhi Hydropower Plant( KGHPP) is a small, low- head, run- of- the- river hydroelectric power generation station of 4.0 megawatt generation capacity( four units of 1.0 MW each), located at Kurram Garhi, a small town in Bannu KPK province of Pakistan on the flows of Kuchkot Canal from Kurram River. It is a small hydel power generating plant constructed and put in commercial operation on February 1958 with the Average Annual generating capacity of 17 million units( GWh) of least expensive electricity.
+#3 Wikipedia Title: Country Is
+Text: " Country Is" is a song written and recorded by American country music artist Tom T. Hall. It was released in September 1974 as the second and final single from the album of the same name," Country Is". The song was Hall\'s fifth number one on the country chart. The single went to number one for a single week and spent a total of eleven weeks on the country chart.
+#4 Wikipedia Title: Which Way Is Up?
+Text: Which Way is Up? is a 1977 American comedy film starring Richard Pryor and directed by Michael Schultz. It is a remake of the 1972 Italian comedy film" The Seduction of Mimi". Richard Pryor plays three roles: an orange picker who has two women at the same time, the orange picker\'s father, and a reverend who gets the orange picker\'s wife pregnant.
+#5 Wikipedia Title: In Country
+Text: In Country is a 1989 American drama film produced and directed by Norman Jewison, starring Bruce Willis and Emily Lloyd. The screenplay by Frank Pierson and Cynthia Cidre was based on the novel by Bobbie Ann Mason. The original music score was composed by James Horner. Willis earned a best supporting actor Golden Globe nomination for his role.
+Q: Which country is Kurram Garhi located in?
+A: Kurram Garhi is located in the country of Pakistan. So the answer is: Pakistan.
+
+#1 Wikipedia Title: Neer Shah
+Text: Neer Bikram Shah, also known as Nir Shah, is a Nepalese movie actor, a poet, lyricist, movie director, and businessman. He is related to the Royal family of Nepal.
+#2 Wikipedia Title: Gajraj Mishra
+Text: TRajguru Gajraj Mishra also spelled Gajaraj Mishra was a Nepalese politician, ambassador, diplomat and a royal priest of Shah dynasty. He was always inclined to his disciple Prince Regent Bahadur Shah of Nepal. Gajraj Mishra was disfavoured by his disciple King Pratap Singh Shah due to his support to Prince Bahadur Shah. He was also disfavoured by Pratap Singh's son Rana Bahadur Shah.
+#3 Wikipedia Title: Princess Helen Shah of Nepal
+Text: Princess Helen Shah of Nepal( September 21, 1926 – September 12, 2008) was a member of the former Nepalese royal family. She was the wife of Prince Basundhara of Nepal, a son of King Tribhuvan of Nepal and his second wife, Queen Ishwari.
+#4 Wikipedia Title: Krishna Shah (Nepalese royal)
+Text: Krishna Shah (?–1661) was the king of the Gorkha Kingdom in the Indian subcontinent, present-day Nepal. He was the father of Rudra Shah.
+#5 Wikipedia Title: Ajaya Pratap Shah
+Text: Ajay Pratap Shah( died September 12,? in Lucknow, India) was a Nepalese politician, belonging to the Rastriya Prajatantra Party. In 1999 parliamentary election he was elected from the Kapilvastu- 4 constituency, with 14091 votes. After the royal coup d'état in February 2005, Shah went into exile in India. After his death, RPP nominated his son, Abhisek Pratap Shah, to take his parliamentary seat in January 2008.
+Q: Who is the child of Krishna Shah (Nepalese Royal)?
+A: Krishna Shah was the father of Rudra Shah. So the answer is: Rudra Shah.

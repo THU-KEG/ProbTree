@@ -1,0 +1,33 @@
+Given a qeustion and a context, answer the question and explain why.
+
+#
+Context:
+Which famous fashion show Stella Maxwell has been a model for? Victoria's Secret.
+Since when Victoria's Secret? 1977.
+
+Question:
+Stella Maxwell has been a model for a famous fashion shown since when?
+
+Answer:
+Stella Maxwell has been a model for a famous fashion shown, Victoria's Secret since 2015. So the answer is: since 2015.
+#
+Context:
+Which athlete rode 400 miles across his country to bring attention to the plight of the disabled in the country? Emmanuel Ofosu Yeboah.
+What is the title of the documentary narrated by Oprah Winfrey about Emmanuel Ofosu Yeboah? Emmanuel's Gift.
+
+Question:
+Oprah Winfrey narrated a documentary about this athlete who rode 400 miles across his country to bring attention to the plight of the disabled in the country?
+
+Answer:
+Oprah Winfrey narrated a documentary about the athelete Emmanuel Ofosu Yeboah, who rode 400 miles across his country to bring attention to the plight of the disabled in the country. So the answer is: Emmanuel Ofosu Yeboah.
+#
+Context:
+Where is Phu Luong located? Vietnam.
+Which country is Vietnam in? Southeast Asia.
+
+Question:
+Which country contains Phu Luong?
+
+Answer:
+Phu Luong is located in the country Vietnam. So the answer is: Vietnam.
+#

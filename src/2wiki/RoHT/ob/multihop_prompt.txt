@@ -1,0 +1,40 @@
+Given a question and the relevant Wikipedia text, answer the question and explain why. If you are unsure, answer Unknown.
+
+#1 Wikipedia Title: Hypocrite (film)
+Text: Hypocrite (Spanish: Hipócrita..!) is a 1949 Mexican thriller film directed by Miguel Morayta and starring Antonio Badú, Leticia Palma, Carmen Molina and Luis Beristáin. The film included the song "Hipócrita". The film's sets were designed by Francisco Marco Chillet.
+#2 Wikipedia Title: When the Legends Die
+Text: When The Legends Die is a 1963 novel, by Hal Borland, and a DeLuxe Color film released in 1972 by Twentieth Century-Fox.
+#3 Wikipedia Title: Who Is the Guilty?
+Text: Who is the Guilty? ( sometimes" Who is to Blame?") is a 1925 Georgian silent film directed by Alexandre Tsutsunava
+#4 Wikipedia Title: Miguel Morayta
+Text: Miguel Morayta( 15 August 1907 – 19 June 2013) was a Spanish film director and screenwriter. He directed 74 films between 1944 and 1978. At the outbreak of the Spanish Civil War, Morayta was a Spanish artillery officer, who joined the Republican side. After Francisco Franco's victory, he left Spain for France and Africa, finally arriving in Mexico in 1941, where he started his career. He was living in Mexico when he died aged 105.
+#5 Wikipedia Title: Joselito vagabundo
+Text: Joselito vagabundo(" Joselito Vagabond") is a 1966 Mexican film. It stars Sara García and is directed by Miguel Morayta.
+Q: When did the director of film Hypocrite (Film) die?
+A: The film Hypocrite was directed by Miguel Morayta. Miguel Morayta died on 19 June 2013. So the answer is: 19 June 2013.
+
+#1 Wikipedia Title: Kurram Garhi
+Text: Kurram Garhi is a small village located near the city of Bannu, which is the part of Khyber Pakhtunkhwa province of Pakistan. Its population is approximately 35000. Barren hills are near this village. This village is on the border of Kurram Agency. Other nearby villages are Peppal, Surwangi and Amandi Kala.
+#2 Wikipedia Title: Kurram Garhi Hydropower Plant
+Text: Kurram Garhi Hydropower Plant( KGHPP) is a small, low- head, run- of- the- river hydroelectric power generation station of 4.0 megawatt generation capacity( four units of 1.0 MW each), located at Kurram Garhi, a small town in Bannu KPK province of Pakistan on the flows of Kuchkot Canal from Kurram River. It is a small hydel power generating plant constructed and put in commercial operation on February 1958 with the Average Annual generating capacity of 17 million units( GWh) of least expensive electricity.
+#3 Wikipedia Title: Trojkrsti
+Text: Trojkrsti is a village in Municipality of Prilep, Republic of Macedonia.
+#4 Wikipedia Title: All Men Are the Same
+Text: All Men Are the Same  is a 1994 Spanish comedy film directed by Manuel Gómez Pereira.
+#5 Wikipedia Title: The Both
+Text: The Both is an American musical duo consisting of Aimee Mann and Ted Leo, both of whom had longstanding musical careers before beginning a collaboration in 2013. Their first album, self- titled" The Both", was released in April 2014.
+Q: Are both Kurram Garhi and Trojkrsti located in the same country?
+A: Kurram Garhi is located in the country of Pakistan. Trojkrsti is located in the country of Republic of Macedonia. Thus, they are not in the same country. So the answer is: no.
+
+#1 Wikipedia Title: Krishna Shah (Nepalese royal)
+Text: Krishna Shah (?–1661) was the king of the Gorkha Kingdom in the Indian subcontinent, present-day Nepal. He was the father of Rudra Shah.
+#2 Wikipedia Title: Neer Shah
+Text: Neer Bikram Shah, also known as Nir Shah, is a Nepalese movie actor, a poet, lyricist, movie director, and businessman. He is related to the Royal family of Nepal.
+#3 Wikipedia Title: Gajraj Mishra
+Text: Rajguru Gajraj Mishra also spelled Gajaraj Mishra was a Nepalese politician, ambassador, diplomat and a royal priest of Shah dynasty. He was always inclined to his disciple Prince Regent Bahadur Shah of Nepal. Gajraj Mishra was disfavoured by his disciple King Pratap Singh Shah due to his support to Prince Bahadur Shah. He was also disfavoured by Pratap Singh's son Rana Bahadur Shah.
+#4 Wikipedia Title: Princess Helen Shah of Nepal
+Text: Princess Helen Shah of Nepal( September 21, 1926 – September 12, 2008) was a member of the former Nepalese royal family. She was the wife of Prince Basundhara of Nepal, a son of King Tribhuvan of Nepal and his second wife, Queen Ishwari.
+#5 Wikipedia Title: Rudra Shah
+Text: Rudra Shah (?–1673) was the king of the Gorkha Kingdom in the Indian subcontinent, present-day Nepal. He was the father of Prithvipati Shah.
+Q: Who is the grandchild of Krishna Shah (Nepalese Royal)?
+A: Krishna Shah has a child named Rudra Shah. Rudra Shah has a child named Prithvipati Shah. Thus, Krishna Shah has a grandchild named Prithvipati Shah. So the answer is: Prithvipati Shah.

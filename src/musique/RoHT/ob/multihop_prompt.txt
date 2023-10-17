@@ -1,0 +1,40 @@
+Given a question and the relevant Wikipedia text, answer the question and explain why. If you are unsure, answer Unknown.
+
+#1 Wikipedia Title: Wadyan
+Text: Wadyan (Arabic: واديان) is a village in the island of Sitra, Bahrain. A branch of the National Bank of Bahrain and the Sitra police station are located in Wadyan.
+#2 Wikipedia Title: Bahrain
+Text: According to a January 2006 report by the United Nations Economic and Social Commission for Western Asia, Bahrain has the fastest-growing economy in the Arab world. Bahrain also has the freest economy in the Middle East and is twelfth-freest overall in the world based on the 2011 Index of Economic Freedom published by the Heritage Foundation/"Wall Street Journal".
+#3 Wikipedia Title: The Benefit Company
+Text: The Benefit Company (TBC) is the local switch in the Kingdom of Bahrain handling ATM and POS transactions among other services. Established in 1997 with a special license from the Central Bank of Bahrain as "Provider of Ancillary Services to the Financial Sector", it is the only financial network of its kind in the country.
+#4 Wikipedia Title: British Empire
+Text: While the Suez Crisis caused British power in the Middle East to weaken, it did not collapse. Britain again deployed its armed forces to the region, intervening in Oman (1957), Jordan (1958) and Kuwait (1961), though on these occasions with American approval, as the new Prime Minister Harold Macmillan's foreign policy was to remain firmly aligned with the United States. Britain maintained a military presence in the Middle East for another decade. In January 1968, a few weeks after the devaluation of the pound, Prime Minister Harold Wilson and his Defence Secretary Denis Healey announced that British troops would be withdrawn from major military bases East of Suez, which included the ones in the Middle East, and primarily from Malaysia and Singapore. The British withdrew from Aden in 1967, Bahrain in 1971, and Maldives in 1976.
+#5 Wikipedia Title: Gulf Air
+Text: Gulf Air ( "Ṭayarān al-Khalīj") is the flag carrier of Bahrain. Headquartered in Muharraq, adjacent to Bahrain International Airport, the airline operates scheduled services to 50 destinations in 28 countries across Africa, Asia and Europe. Its main base is Bahrain International Airport. It was formerly a multinational airline owned by Bahrain, UAE, Oman, and Qatar.
+Q: When did Britain withdraw from the country where the village of Wadyan is found?
+A: Wadyan is in the country of Bahrain. Britain withdraw from Bahrain in 1971. So the answer is: 1971.
+
+#1 Wikipedia Title: So Long, See You Tomorrow (album)
+Text: So Long, See You Tomorrow is the fourth album by the London indie rock band Bombay Bicycle Club, released on 3 February 2014. The album is named after the novel of the same name by William Maxwell.
+#2 Wikipedia Title: Hallelujah I Love Her So
+Text: ``Hallelujah I Love Her So ''Single by Ray Charles from the album Ray Charles (or, Hallelujah I Love Her So) B - side`` What Would I Do Without You'' Released 1956 Format 7 ''45rpm Recorded 1956 Genre soul rhythm and blues Length 2: 35 Label Atlantic Songwriter (s) Ray Charles Producer (s) Jerry Wexler Ray Charles singles chronology ``A Fool for You'' (1955)`` Hallelujah I Love Her So ''(1956) ``Mary Ann'' (1956)`` A Fool for You ''(1955) ``Hallelujah I Love Her So'' (1956)`` Mary Ann ''(1956)
+#3 Wikipedia Title: See You on the Other Side (Mercury Rev album)
+Text: See You on the Other Side is the third studio album by American neo-psychedelia band Mercury Rev, released in 1995 by record label Beggars Banquet.
+#4 Wikipedia Title: Flaws (album)
+Text: Flaws is the second studio album by the British indie rock band Bombay Bicycle Club, released on 9 July 2010 by Island Records. Unlike the band's previous releases, the album is entirely acoustic music, consisting of versions of their own tracks as well as cover versions of other artists. The album was produced in part by the guitarist Jamie MacColl's father, Neil MacColl, with recording taking place in February 2009 at The Church in Crouch End, London. The band started work on the album after completing their first album, "I Had the Blues But I Shook Them Loose".
+#5 Wikipedia Title: The Antidote (Ronny Jordan album)
+Text: The Antidote is the debut album by English jazz guitarist Ronny Jordan, that was released by Island Records in 1992.
+Q: What genre is the record label of the performer of So Long, See You Tomorrow associated with?
+A: The performer of So Long, See You Tomorrow is Bombay Bicycle Club. The record label of Bombay Bicycle Club is Island Records. Island Records released album The Antidote of English jazz guitarist Ronny Jordan. Thus Island Records is associated with jazz. So the answer is: jazz.
+
+#1 Wikipedia Title: Dance in the Country
+Text: Dance in the Country (French: "Danse à la campagne") is an 1883 oil painting by French artist Pierre-Auguste Renoir. It is currently kept at the Musée d'Orsay in Paris.
+#2 Wikipedia Title: Josip Broz Tito
+Text: In 1968, Tito offered Czechoslovak leader Alexander Dubček to fly to Prague on three hours notice if Dubček needed help in facing down the Soviets. In April 1969, Tito removed generals Ivan Gošnjak and Rade Hamović in the aftermath of the invasion of Czechoslovakia due to the unpreparedness of the Yugoslav army to respond to a similar invasion of Yugoslavia.
+#3 Wikipedia Title: 1939 German ultimatum to Lithuania
+Text: The 1939 German ultimatum to Lithuania was an oral ultimatum which Joachim von Ribbentrop, Foreign Minister of Nazi Germany, presented to Juozas Urbšys, Foreign Minister of Lithuania on 20 March 1939. The Germans demanded that Lithuania give up the Klaipėda Region (also known as the Memel Territory) which had been detached from Germany after World War I, or the Wehrmacht would invade Lithuania. The Lithuanians had been expecting the demand after years of rising tension between Lithuania and Germany, increasing pro-Nazi propaganda in the region, and continued German expansion. It was issued just five days after the Nazi occupation of Czechoslovakia. 
+#4 Wikipedia Title: Slavs
+Text: The word "Slavs" was used in the national anthem of the Slovak Republic (1939–1945), Yugoslavia (1943–1992) and the Federal Republic of Yugoslavia (1992–2003), later Serbia and Montenegro (2003–2006).
+#5 Wikipedia Title: United States Army
+Text: Currently, the army is divided into the Regular Army, the Army Reserve, and the Army National Guard. The army is also divided into major branches such as Air Defense Artillery, Infantry, Aviation, Signal Corps, Corps of Engineers, and Armor. Before 1903 members of the National Guard were considered state soldiers unless federalized (i.e., activated) by the President. Since the Militia Act of 1903 all National Guard soldiers have held dual status: as National Guardsmen under the authority of the governor of their state or territory and, when activated, as a reserve of the U.S. Army under the authority of the President.
+Q: A country's military branch, the equivalent of which in the US contains the Air Defense Artillery, was unprepared for the invasion of the country occupied by the Nazi's. When was the word \"Slavs\" used in the national anthem of the unprepared country?
+A: The Air Defense Artillery is a branch of the amry in the US. Nazi occupied Czechoslovakia in 1939. The army of Yugoslavia was unprepared for the invasion of Czechoslovakia. The word "Slavs" was used in the national anthem of Yugoslavia from 1943 to 1992. So the answer is: 1943–1992.

@@ -1,0 +1,4335 @@
+{
+  "When did the city the 2010 Sony Ericsson Open \u2013 Men's Singles winner is from become the capitol of the state Knowles is from?": [
+    [
+      "Who won the 2010 Sony Ericsson Open \u2013 Men's Singles?",
+      "What state is Knowles from?",
+      "When did the city of #1 become the capitol of #2?"
+    ],
+    -0.14128246727222502
+  ],
+  "Who won the 2010 Sony Ericsson Open \u2013 Men's Singles?": [
+    [],
+    null
+  ],
+  "When did the city where Souvenir's performer was born become the capitol of the state Knowles was from?": [
+    [
+      "Where was Souvenir's performer born?",
+      "What state was Knowles from?",
+      "When did #1 become the capitol of #2?"
+    ],
+    -0.1109147357651875
+  ],
+  "Where was Souvenir's performer born?": [
+    [
+      "Who is the performer of Souvenir?",
+      "Where was #1 born?"
+    ],
+    -0.027770283460555552
+  ],
+  "When did the town WIZE is licensed in become capitol of the state where Brantley York was born?": [
+    [
+      "Where was Brantley York born?",
+      "What town is WIZE licensed in?",
+      "When did #2 become the capitol of #1?"
+    ],
+    -0.121275650385125
+  ],
+  "What shares a border with the city where the person who went to the state where the 951 area code is used during the gold rush works?": [
+    [
+      "Which state is the 951 area code used in?",
+      "Where did the person who went to #1 during the gold rush work?",
+      "What shares a border with #2?"
+    ],
+    -0.193555289375
+  ],
+  "Which state is the 951 area code used in?": [
+    [
+      "What is the area code used in the state during the gold rush?",
+      "Which state is #1 used in?"
+    ],
+    -0.22471467689080005
+  ],
+  "What shares a border with the city where the person who went to the state where most billionaires in America live during the gold rush works?": [
+    [
+      "Which state has the most billionaires in America?",
+      "Where did the person who went to #1 during the gold rush work?",
+      "What shares a border with the city #2?"
+    ],
+    -0.1912895598736842
+  ],
+  "Which state has the most billionaires in America?": [
+    [
+      "Who went to the state with the most billionaires in America during the gold rush?",
+      "Which state has #1?"
+    ],
+    -0.17157091328559995
+  ],
+  "What city shares a border with the city where a person went to work during the gold rush in the biggest state in the USA by population?": [
+    [
+      "Which is the biggest state in the USA by population?",
+      "Which city did a person go to work during the gold rush in #1?",
+      "What city shares a border with #2?"
+    ],
+    -0.1043431128025
+  ],
+  "Where does the city where Alexander Golitzen died rank in the top five largest urban areas of the state where the band that Jacoby Shaddix is a member of formed?": [
+    [
+      "What state is the band that Jacoby Shaddix is a member of formed in?",
+      "What city did Alexander Golitzen die in?",
+      "Where does #2 rank in the top five largest urban areas of #1?"
+    ],
+    -0.140138164169375
+  ],
+  "What state is the band that Jacoby Shaddix is a member of formed in?": [
+    [
+      "Which band is Jacoby Shaddix a member of?",
+      "What state is #1 formed in?"
+    ],
+    -0.06995281857565218
+  ],
+  "Who did the actor who played Michael Knight play on Young and Restless?": [
+    [
+      "Who played Michael Knight?",
+      "What character did #1 play on Young and Restless?"
+    ],
+    -0.1449984033375
+  ],
+  "In which province is San Clemente, from the country where Fuser and Alberto meet the indigenous couple who were traveling to look for work?": [
+    [
+      "Which country did Fuser and Alberto meet the indigenous couple who were traveling to look for work?",
+      "Which province is San Clemente, #1 located in?"
+    ],
+    -0.15651970743411764
+  ],
+  "What song did Paul McCartney write for the person who performed Too Late for Goodbyes?": [
+    [
+      "Who performed Too Late for Goodbyes?",
+      "What song did Paul McCartney write for #1?"
+    ],
+    -0.024075330405454544
+  ],
+  "What song did Paul McCartney write for the performer of Valotte?": [
+    [
+      "Who is the performer of Valotte?",
+      "What song did Paul McCartney write for #1?"
+    ],
+    -0.040645428560476204
+  ],
+  "Where did the person who sponsored the resolution to reopen trade with Vietnam along with Kerry go to college?": [
+    [
+      "Who sponsored the resolution to reopen trade with Vietnam along with Kerry?",
+      "Where did #1 go to college?"
+    ],
+    -0.043124846475000006
+  ],
+  "The owner of IPLEDGE has a food safety system know as what?": [
+    [
+      "Who is the owner of IPLEDGE?",
+      "What is the food safety system of #1 known as?"
+    ],
+    -0.10203043724958333
+  ],
+  "Who was married to the creator of Ruby Loftus Screwing a Breech Ring?": [
+    [
+      "Who created Ruby Loftus Screwing a Breech Ring?",
+      "Who was #1 married to?"
+    ],
+    -0.0361757614085
+  ],
+  "What is the largest national park in the country where hunters are estimated to spend fifty to one hundred times that of the average ecotourist?": [
+    [
+      "Which country is estimated to have hunters spending fifty to one hundred times that of the average ecotourist?",
+      "What is the largest national park in #1?"
+    ],
+    -0.11097058917114282
+  ],
+  "Where is the district that the person who wanted to reform and address Edward Egan's religion preached a sermon on Marian devotion before his death located?": [
+    [
+      "Who wanted to reform and address Edward Egan's religion?",
+      "Where did #1 preach a sermon on Marian devotion before his death?",
+      "Which district is #2 located in?"
+    ],
+    -0.09027427518552632
+  ],
+  "In what state is the district where the man who wanted to reform the religion practiced by Innocenzo Ferrieri preached a sermon on Marian devotion?": [
+    [
+      "Who wanted to reform the religion practiced by Innocenzo Ferrieri?",
+      "Where did #1 preach a sermon on Marian devotion?",
+      "What state is #2 located in?"
+    ],
+    -0.09783695532307693
+  ],
+  "Who brought the language Hokkien to the country between the country that hosted the tournament and the country where That Dam is from?": [
+    [
+      "Which country hosted the tournament?",
+      "Which country is That Dam from?",
+      "Who brought the language Hokkien to the country between #1 and #2?"
+    ],
+    -0.05463586400558824
+  ],
+  "Who was in charge in the country that is the natural boundary between the country that hosted the tournament and the country where That Dam is located?": [
+    [
+      "Which country hosted the tournament?",
+      "Which country is That Dam located in?",
+      "What is the natural boundary between #1 and #2?",
+      "Who was in charge in #3?"
+    ],
+    -0.08650782473589744
+  ],
+  "Are there any cruise travel destinations for the country lying between the country hosting the tournament and the country having That Dam?": [
+    [
+      "Which country is hosting the tournament?",
+      "Which country has That Dam?",
+      "Which country lies between #1 and #2?",
+      "Are there any cruise travel destinations for #3?"
+    ],
+    -0.06972512243342108
+  ],
+  "Who brought the language Hokkien to the country on the natural boundary between the country that hosted the tournament and the country where A Don is from?": [
+    [
+      "Which country hosted the tournament?",
+      "Which country is A Don from?",
+      "Who brought the language Hokkien to the country on the natural boundary between #1 and #2?"
+    ],
+    -0.0972676698135526
+  ],
+  "What year did the country that is the natural boundary between where tournament was hosted and where That Dam is located host the ASEAN Conference?": [
+    [
+      "Which country is the natural boundary between where tournament was hosted and where That Dam is located?",
+      "What year did #1 host the ASEAN Conference?"
+    ],
+    -0.07521905548575754
+  ],
+  "Which country is the natural boundary between where tournament was hosted and where That Dam is located?": [
+    [
+      "Where was the tournament hosted?",
+      "Where is That Dam located?",
+      "Which country is the natural boundary between #1 and #2?"
+    ],
+    -0.05578258513448277
+  ],
+  "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from the natural boundary between Thailand and the country where Khong Island is found?": [
+    [
+      "Which country is Khong Island located in?",
+      "What is the natural boundary between Thailand and #1?",
+      "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from #2?"
+    ],
+    -0.11360326208090908
+  ],
+  "Which country is Khong Island located in?": [
+    [
+      "Where is Khong Island located?",
+      "Which country is #1 in?"
+    ],
+    -0.10854654300058823
+  ],
+  "Who played who sang is she really going out with him in the who influenced Beyonce movie?": [
+    [
+      "Which movie was influenced by the Who?",
+      "Who sang 'Is She Really Going Out With Him'?",
+      "Who played #2 in #1?"
+    ],
+    -0.20019612191687508
+  ],
+  "Who is the wife of the man who produced the documentary of the pop star who influenced Beyonce?": [
+    [
+      "Who produced the documentary of the pop star who influenced Beyonce?",
+      "Who is the wife of #1?"
+    ],
+    -0.07373130143083333
+  ],
+  "Who produced the documentary of the pop star who influenced Beyonce?": [
+    [
+      "Who is the pop star who influenced Beyonce?",
+      "Who produced the documentary of #1?"
+    ],
+    -0.08278444789904763
+  ],
+  "Where did the arguer that Yekaterina Fesenko's country of citizenship had become an imperialist power declare he would intervene in the Korean conflict?": [
+    [
+      "What country is Yekaterina Fesenko a citizen of?",
+      "Which imperialist power declared they would intervene in the Korean conflict?",
+      "Where did #2 declare they would intervene in the Korean conflict?"
+    ],
+    -0.1668422546762791
+  ],
+  "What country is Yekaterina Fesenko a citizen of?": [
+    [
+      "Who is Yekaterina Fesenko?",
+      "What is the country of citizenship of #1?"
+    ],
+    -0.06441559747913042
+  ],
+  "Where did the arguer that Kirill Eskov's country of citizenship had become an imperialist power declare he would intervene in the Korean conflict?": [
+    [
+      "What country is Kirill Eskov a citizen of?",
+      "Who argued that #1 had become an imperialist power?",
+      "Where did #2 declare he would intervene in the Korean conflict?"
+    ],
+    -0.11876569788897434
+  ],
+  "What country is Kirill Eskov a citizen of?": [
+    [
+      "Who is Kirill Eskov?",
+      "What country is #1 a citizen of?"
+    ],
+    -0.04681349943526315
+  ],
+  "Where did the person who argued that the country where Ural Oblast is located had become an imperialist power declare he would intervene in the Korean conflict?": [
+    [
+      "Which country is Ural Oblast located in?",
+      "Who argued that #1 had become an imperialist power?",
+      "Where did #2 declare he would intervene in the Korean conflict?"
+    ],
+    -0.05875377664947369
+  ],
+  "When did the place where the head of the catholic region named after the same saint as the Dakovo Cathedral become its own country?": [
+    [
+      "What is the head of the catholic region named after the same saint as the Dakovo Cathedral?",
+      "When did #1 become its own country?"
+    ],
+    -0.07818192303743753
+  ],
+  "What is the head of the catholic region named after the same saint as the Dakovo Cathedral?": [
+    [
+      "What is the name of the saint the Dakovo Cathedral is named after?",
+      "What is the head of the catholic region named after #1?"
+    ],
+    -0.13241920313031247
+  ],
+  "On what date did Governor of the location of the Basilica named after the same saint as \u0110akovo Cathedral and the head of the catholic religion end?": [
+    [
+      "What is the location of the Basilica named after the same saint as \u0110akovo Cathedral?",
+      "Who is the head of the Catholic religion?",
+      "On what date did the Governor of #1 and #2 end?"
+    ],
+    -0.12525408954404257
+  ],
+  "What is the location of the Basilica named after the same saint as \u0110akovo Cathedral?": [
+    [
+      "What is the name of the saint that \u0110akovo Cathedral is named after?",
+      "What is the location of the Basilica named after #1?"
+    ],
+    -0.15937616901666665
+  ],
+  "When did the location of the basilica which is named for the same saint that the Bremen Cathedral is named for become a country?": [
+    [
+      "What is the location of the basilica which is named for the same saint that the Bremen Cathedral is named for?",
+      "When did #1 become a country?"
+    ],
+    -0.07691924016663884
+  ],
+  "What is the location of the basilica which is named for the same saint that the Bremen Cathedral is named for?": [
+    [
+      "What saint is the Bremen Cathedral named for?",
+      "What is the location of the basilica named for #1?"
+    ],
+    -0.0992291634031111
+  ],
+  "When was the creator of The Painter's Studio born?": [
+    [
+      "Who is the creator of The Painter's Studio?",
+      "When was #1 born?"
+    ],
+    -0.018958687184210524
+  ],
+  "Which two features were played up the Microsoft executive who announced IPTV in 2007?": [
+    [
+      "Who announced IPTV in 2007?",
+      "Which two features were played up by #1?"
+    ],
+    -0.10715403668899999
+  ],
+  "Which two features were played up the person who had the biggest net worth in 2017?": [
+    [
+      "Who had the biggest net worth in 2017?",
+      "Which two features were played up #1?"
+    ],
+    -0.05477698997285715
+  ],
+  "What body of water does the river that Toongabbie Creek flows into flow into?": [
+    [
+      "What river does Toongabbie Creek flow into?",
+      "What body of water does #1 flow into?"
+    ],
+    -0.05107661609333335
+  ],
+  "Into what harbour does the river Lennox Bridge in Parramatta crosses flow?": [
+    [
+      "Where is the Lennox Bridge located?",
+      "Into what harbour does the river #1 flow?"
+    ],
+    -0.25332243510440905
+  ],
+  "Who wrote the show that Jimmy Olsen works for?": [
+    [
+      "Which show does Jimmy Olsen work for?",
+      "Who wrote #1?"
+    ],
+    -0.0983124864475
+  ],
+  "Who wrote the TV Series containing the Finale episodes?": [
+    [
+      "What is the TV Series containing the Finale episodes?",
+      "Who wrote #1?"
+    ],
+    -0.10251014332473683
+  ],
+  "What mountain can you see from Portland in the state where Fishing Creek Confederacy is located?": [
+    [
+      "Where is Fishing Creek Confederacy located?",
+      "What mountain can you see from Portland in #1?"
+    ],
+    -0.12361873437619049
+  ],
+  "What mountains can you see from Portland, in the state with the county that contains Fester Hollow?": [
+    [
+      "Which state contains the county that has Fester Hollow?",
+      "What mountains can you see from Portland, #1?"
+    ],
+    -0.21186193495679997
+  ],
+  "Which state contains the county that has Fester Hollow?": [
+    [
+      "Which county contains Fester Hollow?",
+      "Which state is #1 in?"
+    ],
+    -0.17264732098411767
+  ],
+  "When did the state where Copake Lake is located reinstate the death penalty?": [
+    [
+      "Which state is Copake Lake located in?",
+      "When did #1 reinstate the death penalty?"
+    ],
+    -0.03049138949636363
+  ],
+  "What was the form of the language that the last name Sylvester comes from, used in the era of the man crowned Roman Emperor in AD 800, later known as?": [
+    [
+      "What is the last name Sylvester derived from?",
+      "Who was crowned Roman Emperor in AD 800?",
+      "What form of language was #1 used in the era of #2?"
+    ],
+    -0.22353155215282045
+  ],
+  "When did the state that Frozen Run is located in reinstate the death penalty?": [
+    [
+      "Which state is Frozen Run located in?",
+      "When did #1 reinstate the death penalty?"
+    ],
+    -0.05014407760380953
+  ],
+  "who played who sang is she really going out with him in the who sang she's out of my life movie?": [
+    [
+      "Which movie featured the song 'She's Out of My Life'?",
+      "Who sang 'She's Out of My Life'?",
+      "Who played 'Is She Really Going Out With Him' in #1?"
+    ],
+    -0.1882727943886363
+  ],
+  "When did the state, that contains the county where Elmo is found, reinstate the death penalty?": [
+    [
+      "Which county is Elmo located in?",
+      "Which state contains #1?",
+      "When did #2 reinstate the death penalty?"
+    ],
+    -0.0903843443682143
+  ],
+  "When was the death penalty reinstated in the state that contains the county where Howard Mill is located?": [
+    [
+      "Which state contains the county where Howard Mill is located?",
+      "When was the death penalty reinstated in #1?"
+    ],
+    -0.061563197556249984
+  ],
+  "Who is the owner of the record label that Just Got Started Lovin' You's performer belong to?": [
+    [
+      "Who is the performer of Just Got Started Lovin' You?",
+      "Who is the owner of the record label that #1 belong to?"
+    ],
+    -0.09600114391886666
+  ],
+  "Who is the owner of the record label of the performer of Flamenco a Go-Go?": [
+    [
+      "Who is the performer of Flamenco a Go-Go?",
+      "Who is the owner of the record label of #1?"
+    ],
+    -0.04267588951107142
+  ],
+  "Who owns the record label where the singer of All Right records?": [
+    [
+      "Who is the singer of All Right?",
+      "Who owns the record label of #1?"
+    ],
+    -0.11263003700699999
+  ],
+  "Who was the second pick in the 1999 draft of the league Jim Wilson played in?": [
+    [
+      "What league did Jim Wilson play in?",
+      "Who was the second pick in the 1999 draft of #1?"
+    ],
+    -0.09366239749708334
+  ],
+  "What is the name of the castle in the city where the performer of Sleep is the Enemy was formed?": [
+    [
+      "Who is the performer of Sleep is the Enemy?",
+      "What city was #1 formed in?",
+      "What is the name of the castle in #2?"
+    ],
+    -0.09943472922848486
+  ],
+  "What is the name of the castle in the city where the performer of Never Too Loud was formed?": [
+    [
+      "Who is the performer of Never Too Loud?",
+      "Which city was #1 formed in?",
+      "What is the name of the castle in #2?"
+    ],
+    -0.085506238790625
+  ],
+  "Where do Greyhound buses leave from in the city where the creator of Scene in the Northwest: Portrait of John Henry Lefroy lived when he died?": [
+    [
+      "Where did the creator of Scene in the Northwest: Portrait of John Henry Lefroy live when he died?",
+      "Where do Greyhound buses leave from in #1?"
+    ],
+    -0.06710283619294596
+  ],
+  "Where did the creator of Scene in the Northwest: Portrait of John Henry Lefroy live when he died?": [
+    [
+      "Who is the creator of Scene in the Northwest: Portrait of John Henry Lefroy?",
+      "Where did #1 live when he died?"
+    ],
+    -0.029007598171193544
+  ],
+  "What is the name of the castle in the city where the headquarters of the production company of A Cosmic Christmas is located?": [
+    [
+      "Where is the headquarters of the production company of A Cosmic Christmas located?",
+      "What is the name of the castle in #1?"
+    ],
+    -0.05368035587857144
+  ],
+  "In the 14th century, who introduced a system of musical notation used in the area where 3% of Turkey is located?": [
+    [
+      "What area of Turkey is 3% located in?",
+      "In the 14th century, who introduced a system of musical notation used in #1?"
+    ],
+    -0.15190008449806452
+  ],
+  "Who suspended the party that would have maintained power if the treaty was signed in the Russian Soviet Federative Socialist Republic?": [
+    [
+      "What treaty was signed in the Russian Soviet Federative Socialist Republic?",
+      "Which party would have maintained power if #1 was signed?",
+      "Who suspended #2?"
+    ],
+    -0.1309707978802941
+  ],
+  "Who was the first president in the country where the Kamchatka Peninsula is located?": [
+    [
+      "Which country is the Kamchatka Peninsula located in?",
+      "Who was the first president of #1?"
+    ],
+    -0.05979160333365218
+  ],
+  "By how many votes did the signer of the decree suspending the Communist Party of the Russian SFSR survive impeachment?": [
+    [
+      "Who signed the decree suspending the Communist Party of the Russian SFSR?",
+      "By how many votes did #1 survive impeachment?"
+    ],
+    -0.0333803954725
+  ],
+  "By how many votes did the person the organizers wanted to arrest survive impeachment?": [
+    [
+      "Who did the organizers want to arrest?",
+      "How many votes did #1 survive impeachment by?"
+    ],
+    -0.13070913268761902
+  ],
+  "How many students attend where Andre Dreiding is employed?": [
+    [
+      "Where is Andre Dreiding employed?",
+      "How many students attend #1?"
+    ],
+    -0.04974315675764705
+  ],
+  "What team does the 2018 PFA player of the year play for?": [
+    [
+      "Who is the 2018 PFA player of the year?",
+      "What team does #1 play for?"
+    ],
+    -0.05363096386090907
+  ],
+  "Which king, who was England's rule in 1616, translated the Bible?": [
+    [
+      "Who was England's ruler in 1616?",
+      "Which king translated the Bible?"
+    ],
+    -0.2109517321088889
+  ],
+  "Which years did the war with Antigone's spouse occur?": [
+    [
+      "Who is Antigone's spouse?",
+      "Which years did the war with #1 occur?"
+    ],
+    -0.08439748330238096
+  ],
+  "Who fathered Emperor Ai of the Chinese dynasty with the oldest remaining wooden buildings?": [
+    [
+      "Which Chinese dynasty has the oldest remaining wooden buildings?",
+      "Who fathered Emperor Ai of #1?"
+    ],
+    -0.04295185404727272
+  ],
+  "To what division does the language that comprises the standard pronunciation of Catalan belong?": [
+    [
+      "What language comprises the standard pronunciation of Catalan?",
+      "To what division does #1 belong?"
+    ],
+    -0.0647466447325
+  ],
+  "To what division of languages does one with an innovative form belong?": [
+    [
+      "What is the innovative form of language?",
+      "To what division of languages does #1 belong?"
+    ],
+    -0.15010726382142855
+  ],
+  "What record label released the debut album of the artist behind the 1993 album \"Let There be Love\".": [
+    [
+      "Who is the artist behind the 1993 album \"Let There be Love\"?",
+      "What record label released the debut album of #1?"
+    ],
+    -0.07439561538448276
+  ],
+  "Who is the spouse of the person who voices Jarvis in the Avengers Age of Ultron?": [
+    [
+      "Who voices Jarvis in the Avengers Age of Ultron?",
+      "Who is the spouse of #1?"
+    ],
+    -0.0335256735247619
+  ],
+  "Who is the spouse of the actor that plays vision in avengers age of ultron?": [
+    [
+      "Who plays vision in Avengers Age of Ultron?",
+      "Who is the spouse of #1?"
+    ],
+    -0.12663192905500006
+  ],
+  "Who is the spouse of the actor that plays Jarvis in the Avengers Age of Ultron?": [
+    [
+      "Who plays Jarvis in the Avengers Age of Ultron?",
+      "Who is the spouse of #1?"
+    ],
+    -0.05019388884314286
+  ],
+  "Where does the employer of Hasan Hanafi rank according to QS World University Rankings?": [
+    [
+      "Who is Hasan Hanafi's employer?",
+      "Where does #1 rank according to QS World University Rankings?"
+    ],
+    -0.08417578387791667
+  ],
+  "What company is the employer of Marie Rutkoski part of?": [
+    [
+      "Who is Marie Rutkoski?",
+      "What company is #1 employed by?"
+    ],
+    -0.08673865560499999
+  ],
+  "By 1931, what percentage of the world's Jews were the group that represents at least 70% of Jews worldwide?": [
+    [
+      "What group represents at least 70% of Jews worldwide?",
+      "By 1931, what percentage of the world's Jews were #1?"
+    ],
+    -0.0748505088307143
+  ],
+  "Who did the person who married their half sister in the bible marry after the death of sarah?": [
+    [
+      "Who married their half sister in the bible?",
+      "Who did #1 marry after the death of Sarah?"
+    ],
+    -0.04550080368434783
+  ],
+  "Where did the creator of the Allegory of Isabella d'Este's Coronation die?": [
+    [
+      "Who created the Allegory of Isabella d'Este's Coronation?",
+      "Where did #1 die?"
+    ],
+    -0.025498518968999996
+  ],
+  "In what year did the insurgency start in the part of the country it is about?": [
+    [
+      "What part of the country is the insurgency about?",
+      "In what year did the insurgency start in #1?"
+    ],
+    -0.09291465223291666
+  ],
+  "What was the cast member of Missing in Action's name in Walker, Texas Ranger?": [
+    [
+      "Who was the cast member of Missing in Action?",
+      "What was the name of #1 in Walker, Texas Ranger?"
+    ],
+    -0.11238135698692306
+  ],
+  "At the end of which year did the tribes from the location of the Lusatia invade the Roman Empire?": [
+    [
+      "Where is the location of the Lusatia?",
+      "At the end of which year did the tribes from #1 invade the Roman Empire?"
+    ],
+    -0.09944396279566665
+  ],
+  "Where in Zhejiang is the city where Protestants are especially notable?": [
+    [
+      "What city in Zhejiang is especially notable for Protestants?",
+      "Where is #1 located?"
+    ],
+    -0.27255907013999997
+  ],
+  "Which company followed the company that made AAM-N-4 Oriole?": [
+    [
+      "Which company made AAM-N-4 Oriole?",
+      "Which company followed #1?"
+    ],
+    -0.054573073724285714
+  ],
+  "What character does the person who played Eliza Doolittle in My Fair Lady play in The Princess Diaries?": [
+    [
+      "Who played Eliza Doolittle in My Fair Lady?",
+      "What character does #1 play in The Princess Diaries?"
+    ],
+    -0.034803134652
+  ],
+  "What does the acronym of the organization Danish Football Union is part of stand for?": [
+    [
+      "Which organization is the Danish Football Union part of?",
+      "What does the acronym of #1 stand for?"
+    ],
+    -0.09561677372043477
+  ],
+  "Who was the person talking at the beginning of Thriller by Fall Out Boy talking about in Song Cry?": [
+    [
+      "Who is talking at the beginning of Thriller by Fall Out Boy?",
+      "What is #1 talking about in Song Cry?"
+    ],
+    -0.14154511240666667
+  ],
+  "Who is the child of Empress Dowager Huang's child?": [
+    [
+      "Who is Empress Dowager Huang's child?",
+      "Who is #1's child?"
+    ],
+    -0.06221962396315789
+  ],
+  "What is a notable work from the person who said the term 'intellectual property' operates as a catch-all": [
+    [
+      "Who said the term 'intellectual property' operates as a catch-all?",
+      "What is a notable work from #1?"
+    ],
+    -0.031004365925714285
+  ],
+  "Who founded what Robert J Chassell is a member of?": [
+    [
+      "What is Robert J Chassell a member of?",
+      "Who founded #1?"
+    ],
+    -0.035662854565789485
+  ],
+  "Who was the child of the person who started the State of the Union address?": [
+    [
+      "Who started the State of the Union address?",
+      "Who is the child of #1?"
+    ],
+    -0.043576601024999995
+  ],
+  "Who was in charge of the area where Laren is located?": [
+    [
+      "Where is Laren located?",
+      "Who was in charge of #1?"
+    ],
+    -0.061419697238588235
+  ],
+  "Drives attached via an industry standard connector remain powered when the computer is off using what Dell feature?": [
+    [
+      "What feature does Dell have that allows drives attached via an industry standard connector to remain powered when the computer is off?"
+    ],
+    -0.22839836859360002
+  ],
+  "Who was in charge of the province which contains Zeevang?": [
+    [
+      "Which province contains Zeevang?",
+      "Who was in charge of #1?"
+    ],
+    -0.03229542540657895
+  ],
+  "Who was in charge of the place where Bergen is located?": [
+    [
+      "Where is Bergen located?",
+      "Who was in charge of #1?"
+    ],
+    -0.024216001829764706
+  ],
+  "In which county is the city to which KKVU is licensed to broadcast?": [
+    [
+      "Which city is KKVU licensed to broadcast?",
+      "Which county is #1 located in?"
+    ],
+    -0.03284571430181818
+  ],
+  "Which iPod generation introduced compatibility with the industry standard connection that was first widely used at version 1.1?": [
+    [
+      "What is the industry standard connection that was first widely used at version 1.1?",
+      "Which iPod generation introduced compatibility with #1?"
+    ],
+    -0.046832172682758626
+  ],
+  "Who is one of the members of the music group that performed \"Good Little Girls\"?": [
+    [
+      "What music group performed \"Good Little Girls\"?",
+      "Who is one of the members of #1?"
+    ],
+    -0.1157060891404348
+  ],
+  "How were people from whom new coins were a proclamation of independence by the Somali Muslim Ajuran Empire expelled from the natural boundary between Thailand and Ban Kenpha's country?": [
+    [
+      "What is the natural boundary between Thailand and Ban Kenpha's country?",
+      "What was the proclamation of independence by the Somali Muslim Ajuran Empire?",
+      "How were people from #2 expelled from #1?"
+    ],
+    -0.1373113704516279
+  ],
+  "What is the natural boundary between Thailand and Ban Kenpha's country?": [
+    [
+      "Which country is Ban Kenpha from?",
+      "What is the natural boundary between Thailand and #1?"
+    ],
+    -0.06967929201090908
+  ],
+  "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from the natural boundary between Thailand and the country Setthathirath is a citizen of?": [
+    [
+      "Which country is Setthathirath a citizen of?",
+      "What is the natural boundary between Thailand and #1?",
+      "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from #2?"
+    ],
+    -0.061363821767872334
+  ],
+  "Which country is Setthathirath a citizen of?": [
+    [
+      "Who is Setthathirath?",
+      "What is the country of #1?"
+    ],
+    -0.07518773550157894
+  ],
+  "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from the natural boundary between Thailand and the country where Nam Theun is found?": [
+    [
+      "Which people did the Somali Muslim Ajuran Empire declared independence from?",
+      "Which country is Nam Theun found in?",
+      "How were the #1 expelled from the natural boundary between Thailand and #2?"
+    ],
+    -0.14615658549523808
+  ],
+  "Which people did the Somali Muslim Ajuran Empire declared independence from?": [
+    [
+      "What is the Somali Muslim Ajuran Empire?",
+      "Which people did #1 declared independence from?"
+    ],
+    -0.08622203626761904
+  ],
+  "How were people from whom new coins were a proclamation of independence by the Somali Muslim Ajuran Empire expelled from the natural boundary between Thailand and Tham Pha's country?": [
+    [
+      "What is the natural boundary between Thailand and Tham Pha's country?",
+      "What was the proclamation of independence by the Somali Muslim Ajuran Empire?",
+      "How were people from #2 expelled from #1?"
+    ],
+    -0.12668316077840908
+  ],
+  "What is the natural boundary between Thailand and Tham Pha's country?": [
+    [
+      "Which country is Tham Pha from?",
+      "What is the natural boundary between Thailand and #1?"
+    ],
+    -0.05698788910043477
+  ],
+  "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from the natural boundary between Thailand and the country where Sepon mine is found?": [
+    [
+      "Which country is Sepon mine found in?",
+      "What is the natural boundary between Thailand and #1?",
+      "How were the same people who the Somali Muslim Ajuran Empire declared independence from expelled from #2?"
+    ],
+    -0.1164360690613636
+  ],
+  "Which country is Sepon mine found in?": [
+    [
+      "Where is Sepon mine located?",
+      "Which country is #1 found in?"
+    ],
+    -0.11794856485388891
+  ],
+  "How were people from whom new coins were a proclamation of independence by the Somali Muslim Ajuran Empire expelled from the natural boundary between Thailand and Hiam district's country?": [
+    [
+      "What is the natural boundary between Thailand and Hiam district's country?",
+      "What was the proclamation of independence by the Somali Muslim Ajuran Empire?",
+      "How were people from #2 expelled from #1?"
+    ],
+    -0.13885428397046512
+  ],
+  "What is the natural boundary between Thailand and Hiam district's country?": [
+    [
+      "Which country is Hiam district located in?",
+      "What is the natural boundary between Thailand and #1?"
+    ],
+    -0.09261056777608696
+  ],
+  "New coins by the Somali Muslim Ajuran Empire were a proclamation of independence from a nation. How were the people of that nation expelled from country that borders Thailand and Ban Nampo village's country?": [
+    [
+      "What nation did the Somali Muslim Ajuran Empire declare independence from?",
+      "Which country borders Thailand and Ban Nampo village's country?",
+      "How were the people of #1 expelled from #2?"
+    ],
+    -0.1170327074554762
+  ],
+  "What nation did the Somali Muslim Ajuran Empire declare independence from?": [
+    [
+      "What is the Somali Muslim Ajuran Empire?",
+      "What nation did #1 declare independence from?"
+    ],
+    -0.12151659431809525
+  ],
+  "What is the name of the castle in the birthplace of Harmony's performer?": [
+    [
+      "Who is the performer of Harmony?",
+      "Where was #1 born?",
+      "What is the name of the castle in #2?"
+    ],
+    -0.0401826886475
+  ],
+  "When did the majority party in the House of Representatives take control of the body which the President calls on for support in his USAF appointments?": [
+    [
+      "Which body does the President call on for support in his USAF appointments?",
+      "When did the majority party in the House of Representatives take control of #1?"
+    ],
+    -0.04275569587727274
+  ],
+  "When did the political party that holds the majority in the political body that passed a bill giving regulators discretion to prohibit proprietary trades, gain control of the House?": [
+    [
+      "Which political body passed a bill giving regulators discretion to prohibit proprietary trades?",
+      "Which political party holds the majority in #1?",
+      "When did #2 gain control of the House?"
+    ],
+    -0.05671519170526317
+  ],
+  "When did the party that gained control of Congress in the midterm elections in 1946 take control of the government branch that determines the rules of the US House?": [
+    [
+      "Which party gained control of Congress in the midterm elections in 1946?",
+      "Which government branch determines the rules of the US House?",
+      "When did #1 take control of #2?"
+    ],
+    -0.061458581130789454
+  ],
+  "When did the party that had majorities in Congress prior to the 1954 elections, take control of the organization that determines the rules of the US house and US senate?": [
+    [
+      "Which party had majorities in Congress prior to the 1954 elections?",
+      "Which organization determines the rules of the US house and US senate?",
+      "When did #1 take control of #2?"
+    ],
+    -0.06645569579487177
+  ],
+  "When did the party Harlan and Stewart were affiliated with gain control of the body which determines rules of the US House and US Senate?": [
+    [
+      "Which party were Harlan and Stewart affiliated with?",
+      "What body determines the rules of the US House and US Senate?",
+      "When did #1 gain control of #2?"
+    ],
+    -0.08828262766756757
+  ],
+  "In what region of Phu Luong's country is John Phan's birthplace located?": [
+    [
+      "Where is John Phan's birthplace?",
+      "What country is Phu Luong from?",
+      "In what region of #2 is #1 located?"
+    ],
+    -0.13613344025406246
+  ],
+  "Where is John Phan's birthplace?": [
+    [
+      "Who is John Phan?",
+      "Where was #1 born?"
+    ],
+    -0.009925932657333332
+  ],
+  "What is the capital of the county that shares a border with the county where Pierce Manufacturing's headquarters are located?": [
+    [
+      "Which county is Pierce Manufacturing's headquarters located in?",
+      "Which county shares a border with #1?",
+      "What is the capital of #2?"
+    ],
+    -0.09022568850967747
+  ],
+  "What is the seat of the county sharing a border with the county where Western Islands is headquartered?": [
+    [
+      "Which county is Western Islands headquartered in?",
+      "What county shares a border with #1?",
+      "What is the seat of #2?"
+    ],
+    -0.06966587025517243
+  ],
+  "What is the seat of the county sharing a border with the county in which Miller Electric is headquartered?": [
+    [
+      "Which county is Miller Electric headquartered in?",
+      "What county shares a border with #1?",
+      "What is the seat of #2?"
+    ],
+    -0.06980751418620688
+  ],
+  "What is the seat of the county sharing a border with the county where Don Werner was born?": [
+    [
+      "Where was Don Werner born?",
+      "What county shares a border with #1?",
+      "What is the seat of #2?"
+    ],
+    -0.05219931759851852
+  ],
+  "When did the country whose co-official language was used in the movie named after the place where Bela Linder died first attend the Olympics games as an independent team?": [
+    [
+      "What is the country whose co-official language was used in the movie named after the place where Bela Linder died?",
+      "When did #1 first attend the Olympics games as an independent team?"
+    ],
+    -0.07696490305809525
+  ],
+  "What is the country whose co-official language was used in the movie named after the place where Bela Linder died?": [
+    [
+      "What is the movie named after the place where Bela Linder died?",
+      "What is the country whose co-official language was used in #1?"
+    ],
+    -0.11205715374424242
+  ],
+  "What is the movie named after the place where Bela Linder died?": [
+    [
+      "Where did Bela Linder die?",
+      "What is the movie named after #1?"
+    ],
+    -0.06426695710900002
+  ],
+  "When did the country that has the same co-official language as that of the movie about the city where Petar Trifunovi\u0107 died send an independent team to the Olympics?": [
+    [
+      "What is the movie about the city where Petar Trifunovi\u0107 died?",
+      "What is the co-official language of #1?",
+      "Which country has the same co-official language as #2?",
+      "When did #3 send an independent team to the Olympics?"
+    ],
+    -0.10539505535465518
+  ],
+  "What is the movie about the city where Petar Trifunovi\u0107 died?": [
+    [
+      "Where did Petar Trifunovi\u0107 die?",
+      "What is the movie about #1?"
+    ],
+    -0.06410859983227274
+  ],
+  "A country gained control of Florida after the war in which Charles Edward Nugent saw action. Besides being in different parts of that country, what other differences are there between Real Madrid and Hostafrancs's city's team?": [
+    [
+      "What country gained control of Florida after the war in which Charles Edward Nugent saw action?",
+      "What city is Hostafrancs's team from?",
+      "What are the differences between Real Madrid and #2's team?"
+    ],
+    -0.19391633136276593
+  ],
+  "What country gained control of Florida after the war in which Charles Edward Nugent saw action?": [
+    [
+      "Which war did Charles Edward Nugent saw action in?",
+      "What country gained control of Florida after #1?"
+    ],
+    -0.13133161987083333
+  ],
+  "Besides areas of the country gaining control of Florida after the conflict Charles Edmund Nugent participated in, what other differences exist between where Simon Sabiani died and Real Madrid?": [
+    [
+      "Where did Simon Sabiani die?",
+      "What conflict did Charles Edmund Nugent participate in?",
+      "Besides areas of the country gaining control of Florida after #2, what other differences exist between #1 and Real Madrid?"
+    ],
+    -0.12152739679711112
+  ],
+  "What conflict did Charles Edmund Nugent participate in?": [
+    [
+      "Who is Charles Edmund Nugent?",
+      "What conflict did #1 participate in?"
+    ],
+    -0.060925159357777786
+  ],
+  "Who is the spouse of the actor playing Bart's father in I can only imagine?": [
+    [
+      "Who is the actor playing Bart's father in I can only imagine?",
+      "Who is the spouse of #1?"
+    ],
+    -0.0647669193832
+  ],
+  "Which university educated the scientist who developed an explanation for the photoelectric effect?": [
+    [
+      "Who developed an explanation for the photoelectric effect?",
+      "Which university was #1 educated at?"
+    ],
+    -0.034447013384761895
+  ],
+  "Which affiliate left the employer of Don Newman due to an agreement with CHBC?": [
+    [
+      "Who is Don Newman's employer?",
+      "Which affiliate left #1 due to an agreement with CHBC?"
+    ],
+    -0.04648148766869565
+  ],
+  "Which mythological tradition has the group of heroes that includes Aegialeus?": [
+    [
+      "Which group of heroes includes Aegialeus?",
+      "Which mythological tradition is #1 part of?"
+    ],
+    -0.1525456601818182
+  ],
+  "What is the public library system called in the place where the Cosbys live in New York?": [
+    [
+      "Where do the Cosbys live in New York?",
+      "What is the public library system called in #1?"
+    ],
+    -0.03824037979458334
+  ],
+  "When does the new season of the show starring the cast member of Pizza Man start?": [
+    [
+      "Who is the cast member of Pizza Man?",
+      "When does the new season of the show starring #1 start?"
+    ],
+    -0.0417242673508
+  ],
+  "How far from Nashville in miles is the place of death of Felix Ives Batson?": [
+    [
+      "Where did Felix Ives Batson die?",
+      "How far from Nashville in miles is #1?"
+    ],
+    -0.06448217152136362
+  ],
+  "Along with the person who played Andy's brother in The Office, what notable pop artist started his career in adult contemporary radio?": [
+    [
+      "Who played Andy's brother in The Office?",
+      "What notable pop artist started his career in adult contemporary radio, along with #1?"
+    ],
+    -0.10926779628413795
+  ],
+  "What is the maximum load drawn by the 1.0 and 2.0 versions of the device that replaced FireWire in later iPods?": [
+    [
+      "What device replaced FireWire in later iPods?",
+      "What is the maximum load drawn by the 1.0 and 2.0 versions of #1?"
+    ],
+    -0.04793644405666667
+  ],
+  "What county is the Ira C. Allen Mansion located in?": [
+    [
+      "Where is the Ira C. Allen Mansion located?",
+      "Which county is #1 located in?"
+    ],
+    -0.060242299445454554
+  ],
+  "When was Q1 who was impeached in england for acts committed as governor general of india impeached?": [
+    [
+      "Who was impeached in England for acts committed as Governor General of India?",
+      "When was #1 impeached?"
+    ],
+    -0.03806231122979999
+  ],
+  "When was the first governor general of India impeached?": [
+    [
+      "Who was the first governor general of India?",
+      "When was #1 impeached?"
+    ],
+    -0.011146345780263156
+  ],
+  "Who is the spouse of the creator of The Mighty B?": [
+    [
+      "Who is the creator of The Mighty B?",
+      "Who is the spouse of #1?"
+    ],
+    -0.04170863885750001
+  ],
+  "What is the population of Francis Watson's birthplace?": [
+    [
+      "Where was Francis Watson born?",
+      "What is the population of #1?"
+    ],
+    -0.015661612891764706
+  ],
+  "Who in the14th century introduced musical notation used where Jack later participated in a covert mission?": [
+    [
+      "Where did Jack participate in a covert mission?",
+      "Who introduced musical notation in the 14th century?",
+      "Was #2 used in #1?"
+    ],
+    -0.23928464547129036
+  ],
+  "What percentage of Eritrea is estimated to adhere to the religion widely practiced in the region that the tentacled snake is native to?": [
+    [
+      "What region is the tentacled snake native to?",
+      "What religion is widely practiced in #1?",
+      "What percentage of Eritrea is estimated to adhere to #2?"
+    ],
+    -0.08225305967783786
+  ],
+  "What dissolved the privileges of the empire using Pan-Slavism as a political tool, the kingdom acquiring some Thuringian territory or Habsburg Monarchy?": [
+    [
+      "Which empire used Pan-Slavism as a political tool?",
+      "Which kingdom acquired some Thuringian territory?",
+      "Which monarchy was the Habsburg Monarchy?",
+      "What dissolved the privileges of #1, #2 and #3?"
+    ],
+    -0.11786766358803921
+  ],
+  "How many people live in the largest state of the region where The Family Stone takes place?": [
+    [
+      "What region does The Family Stone take place in?",
+      "What is the largest state in #1?",
+      "How many people live in #2?"
+    ],
+    -0.09990264846
+  ],
+  "What went down after the Soviet president visiting the country of citizenship of Yasyn Khamid while the protests were taking place departed from the Kremlin?": [
+    [
+      "Which country is Yasyn Khamid a citizen of?",
+      "Which Soviet president visited #1 while the protests were taking place?",
+      "What went down after #2 departed from the Kremlin?"
+    ],
+    -0.14360890018102562
+  ],
+  "Which country is Yasyn Khamid a citizen of?": [
+    [
+      "Who is Yasyn Khamid?",
+      "What is the country of citizenship of #1?"
+    ],
+    -0.05371306301300001
+  ],
+  "Which star of the Real Housewives show, set in the largest city by population in the state where WEKL is located, is married to an NFL player?": [
+    [
+      "Which state is WEKL located in?",
+      "What is the largest city by population in #1?",
+      "Which star of the Real Housewives show in #2 is married to an NFL player?"
+    ],
+    -0.08796628068166666
+  ],
+  "What is the average winter daytime temperature in the region containing Richmond, in the state where WXBX is located?": [
+    [
+      "Which state is WXBX located in?",
+      "What is the average winter daytime temperature in the region containing Richmond, in #1?"
+    ],
+    -0.1166239697706667
+  ],
+  "What is the great mosque constructed at the site of the old temple in the city originating christianity in Rome, Egypt, Judea and the country for Vasilopita?": [
+    [
+      "Which city is the origin of Christianity in Rome, Egypt, Judea and the country for Vasilopita?",
+      "What is the great mosque constructed at the site of the old temple in #1?"
+    ],
+    -0.11574740259441865
+  ],
+  "Which city is the origin of Christianity in Rome, Egypt, Judea and the country for Vasilopita?": [
+    [
+      "What is the country for Vasilopita?",
+      "Which city is the origin of Christianity in Rome, Egypt, Judea and #1?"
+    ],
+    -0.10327961910793544
+  ],
+  "What dissolved the privileges of the birth empire of Alexey Brodovitch, the kingdom acquiring some Thuringian territory or Habsburg Monarchy?": [
+    [
+      "Which kingdom acquired some Thuringian territory or Habsburg Monarchy?",
+      "What dissolved the privileges of the birth empire of Alexey Brodovitch?",
+      "What dissolved the privileges of #2 and #1?"
+    ],
+    -0.1985447677009782
+  ],
+  "Which kingdom acquired some Thuringian territory or Habsburg Monarchy?": [
+    [
+      "Where was Alexey Brodovitch born?",
+      "Which kingdom acquired some Thuringian territory or Habsburg Monarchy from #1?"
+    ],
+    -0.12399482564709678
+  ],
+  "Where is the Bridge of Sighs located in the place of death of Sonata pian'e forte's composer?": [
+    [
+      "Where did the composer of Sonata pian'e forte die?",
+      "Where is the Bridge of Sighs located in #1?"
+    ],
+    -0.06280970510016667
+  ],
+  "How many times did plague occur in the birthplace of the composer of Gloria in D Major?": [
+    [
+      "Who composed Gloria in D Major?",
+      "Where was #1 born?",
+      "How many times did plague occur in #2?"
+    ],
+    -0.06412939044518519
+  ],
+  "How many times did plague occur in the place where Vanity's creator died?": [
+    [
+      "Who is the creator of Vanity?",
+      "Where did #1 die?",
+      "How many times did plague occur in #2?"
+    ],
+    -0.048422437347777784
+  ],
+  "What is the name of the famous bridge in the city where the composer of La costanza trionfante degl'amori e de gl'odii was born?": [
+    [
+      "Who composed La costanza trionfante degl'amori e de gl'odii?",
+      "Where was #1 born?",
+      "What is the name of the famous bridge in #2?"
+    ],
+    -0.04981858727055814
+  ],
+  "How many square miles is the city where the Yongle emperor greeted the person to whom the edict was addressed?": [
+    [
+      "Who was the person to whom the edict was addressed?",
+      "Where did the Yongle emperor greet #1?",
+      "How many square miles is #2?"
+    ],
+    -0.12750779551117644
+  ],
+  "When did the merchant of the city where the composer of Al gran sole carico d'amore takes place?": [
+    [
+      "Which city is the composer of Al gran sole carico d'amore from?",
+      "When did the merchant of #1 take place?"
+    ],
+    -0.10284983512766668
+  ],
+  "What is the name of the major basketball team from the city where the Yongle emperor greeted the person to whom the edict was addressed?": [
+    [
+      "Who was the person to whom the edict was addressed?",
+      "Which city did the Yongle emperor greet #1?",
+      "What is the name of the major basketball team from #2?"
+    ],
+    -0.14764730190300002
+  ],
+  "What city was the author of Neighbors born in?": [
+    [
+      "Who is the author of Neighbors?",
+      "Where was #1 born?"
+    ],
+    -0.026164258605294116
+  ],
+  "What was the director of Lisa Picard is Famous nominated for?": [
+    [
+      "Who is the director of Lisa Picard is Famous?",
+      "What was #1 nominated for?"
+    ],
+    -0.043097981024999996
+  ],
+  "What line by the Southern Roses cast member is believed to have started the Archie nickname?": [
+    [
+      "Who is the cast member of Southern Roses?",
+      "What line by #1 is believed to have started the Archie nickname?"
+    ],
+    -0.09111889903230769
+  ],
+  "When did the president of the Confederate States of America end his fight in the Mexican-American war?": [
+    [
+      "Who was the president of the Confederate States of America?",
+      "When did #1 end his fight in the Mexican-American war?"
+    ],
+    -0.04772476092321428
+  ],
+  "Who is daughter to the third Rebbe of Chabad Lubavitch, named after his father?": [
+    [
+      "Who is the third Rebbe of Chabad Lubavitch?",
+      "What is the name of the #1's daughter?"
+    ],
+    -0.20514122468444446
+  ],
+  "What year did Ludwig Friedrich Otto Baumgarten-Crusius's birthplace end?": [
+    [
+      "Where was Ludwig Friedrich Otto Baumgarten-Crusius born?",
+      "What year did #1 end?"
+    ],
+    -0.02131469035784
+  ],
+  "When did Charles Frederick II's birthplace fall?": [
+    [
+      "Where was Charles Frederick II born?",
+      "When did #1 fall?"
+    ],
+    -0.020736041868125
+  ],
+  "Who is the mascot of the university related to Randy Conrads?": [
+    [
+      "Which university is Randy Conrads related to?",
+      "What is the mascot of #1?"
+    ],
+    -0.07184699765857142
+  ],
+  "When did the owner of Bucephalus die?": [
+    [
+      "Who is the owner of Bucephalus?",
+      "When did #1 die?"
+    ],
+    -0.041860712891105274
+  ],
+  "How many people work in the school where Ross Porter was educated?": [
+    [
+      "Which school did Ross Porter attend?",
+      "How many people work in #1?"
+    ],
+    -0.09724962121555554
+  ],
+  "How many people work at the school where Gene Ball was educated?": [
+    [
+      "Which school did Gene Ball attend?",
+      "How many people work at #1?"
+    ],
+    -0.08639506764444443
+  ],
+  "Who is the spouse of the actor who played Zeb in How the West was Won?": [
+    [
+      "Who played Zeb in How the West was Won?",
+      "Who is the spouse of #1?"
+    ],
+    -0.029240463870454536
+  ],
+  "What is the date of birth for the performer of Hits?": [
+    [
+      "Who is the performer of Hits?",
+      "What is the date of birth for #1?"
+    ],
+    -0.046213165111
+  ],
+  "Who many players can play in the game based on the show that Steven the Sword Fighter is part of?": [
+    [
+      "Which show is Steven the Sword Fighter part of?",
+      "How many players can play in the game based on #1?"
+    ],
+    -0.08514349873846155
+  ],
+  "Who is the CEO of FleetBoston Financial's purchaser?": [
+    [
+      "What company purchased FleetBoston Financial?",
+      "Who is the CEO of #1?"
+    ],
+    -0.0857331903388889
+  ],
+  "When was countrywide bought by the company that bought FleetBoston Financial?": [
+    [
+      "Which company bought FleetBoston Financial?",
+      "When was Countrywide bought by #1?"
+    ],
+    -0.05852375877368422
+  ],
+  "In The Godfather Part II, who did the producer of Mistress play?": [
+    [
+      "Who is the producer of Mistress?",
+      "What role did #1 play in The Godfather Part II?"
+    ],
+    -0.15247865491086957
+  ],
+  "The Freddie Mercury film's producer played who in Godfather 2?": [
+    [
+      "Who is the producer of the Freddie Mercury film?",
+      "Who did #1 play in Godfather 2?"
+    ],
+    -0.11214650394782608
+  ],
+  "Who is the spouse of the Redcap cast member?": [
+    [
+      "Who is the cast member of Redcap?",
+      "Who is the spouse of #1?"
+    ],
+    -0.05874310428
+  ],
+  "What century did the author of \"Treatise Concerning the Principles of Human Knowldege\" live in?": [
+    [
+      "Who is the author of \"Treatise Concerning the Principles of Human Knowldege\"?",
+      "What century did #1 live in?"
+    ],
+    -0.06470507355206451
+  ],
+  "When was the company that makes ALARM abolished?": [
+    [
+      "What company makes ALARM?",
+      "When was #1 abolished?"
+    ],
+    -0.08601238023266664
+  ],
+  "Who is the spouse of the individual who lives in the houses in Windsor Castle?": [
+    [
+      "Who lives in the houses in Windsor Castle?",
+      "Who is the spouse of #1?"
+    ],
+    -0.0297810362865
+  ],
+  "Who is the spouse of Prince Edward, Earl of Wessex's mother?": [
+    [
+      "Who is Prince Edward, Earl of Wessex's mother?",
+      "Who is the spouse of #1?"
+    ],
+    -0.039537367283043474
+  ],
+  "Who is the child of the first person who gave in person state of the union?": [
+    [
+      "Who gave the first in person state of the union?",
+      "Who is the child of #1?"
+    ],
+    -0.07756301562727273
+  ],
+  "When did the team that won the AL East in 2017 last play in the event after which the MLB MVP is awarded?": [
+    [
+      "Which team won the AL East in 2017?",
+      "What event is the MLB MVP awarded after?",
+      "When did #1 last play in #2?"
+    ],
+    -0.09214798554062499
+  ],
+  "What was where the last name sylvester comes from of who was Rotrude's father's era later known as?": [
+    [
+      "Who was Rotrude's father?",
+      "What was the era of #1 later known as?",
+      "What was the origin of the last name Sylvester?"
+    ],
+    -0.17078451673457146
+  ],
+  "Who was Rotrude's father?": [
+    [
+      "Who is Rotrude?",
+      "Who is the father of #1?"
+    ],
+    -0.10794377913117646
+  ],
+  "In what country is women's football played in the country where the German chancellor criticized by The Sun held citizenship?": [
+    [
+      "Which German chancellor was criticized by The Sun?",
+      "Which country does #1 hold citizenship?",
+      "In what country is women's football played in #2?"
+    ],
+    -0.18462170826666668
+  ],
+  "Which German chancellor was criticized by The Sun?": [
+    [
+      "Who was criticized by The Sun?",
+      "#1 is a German chancellor?"
+    ],
+    -0.24755227339625002
+  ],
+  "What was the language from which the last name Sylvester originates during the era of the person crowned new Roman emperor in 800 A.D. later known as?": [
+    [
+      "Who was crowned new Roman emperor in 800 A.D. later known as?",
+      "What language does the last name Sylvester originate from during the era of #1?"
+    ],
+    -0.1374151542478108
+  ],
+  "Who was crowned new Roman emperor in 800 A.D. later known as?": [
+    [
+      "In 800 A.D., who was crowned new Roman emperor?",
+      "What was #1 later known as?"
+    ],
+    -0.1531055629043333
+  ],
+  "Who was the British general in the battle named after the birth city of the person who recorded Mother-in-Law?": [
+    [
+      "Who recorded Mother-in-Law?",
+      "Where was #1 born?",
+      "Who was the British general in the battle named after #2?"
+    ],
+    -0.09839701850193548
+  ],
+  "When were the monuments built in the Mother-in-Law performer's birthplace?": [
+    [
+      "Where was the Mother-in-Law performer born?",
+      "When were the monuments built in #1?"
+    ],
+    -0.07028850297391306
+  ],
+  "What is the symbols of the Saints from the place where Here Come the Girl's performer was born called?": [
+    [
+      "Who is the performer of Here Come the Girls?",
+      "Where was #1 born?",
+      "What is the symbol of the Saints from #2 called?"
+    ],
+    -0.12282115853187503
+  ],
+  "How many times did the plague occur in the place of death of the creator of La Schiavona?": [
+    [
+      "Where did the creator of La Schiavona die?",
+      "How many times did the plague occur in #1?"
+    ],
+    -0.03838591198230769
+  ],
+  "Who did the Slavs have contact with in the country that Steven Spielberg's grandparents were from?": [
+    [
+      "What country were Steven Spielberg's grandparents from?",
+      "Who did the Slavs have contact with in #1?"
+    ],
+    -0.08835034327791669
+  ],
+  "How early can you buy alcohol in the state encompassing Tracy-Causer Block?": [
+    [
+      "Which state is Tracy-Causer Block located in?",
+      "How early can you buy alcohol in #1?"
+    ],
+    -0.11372201716291667
+  ],
+  "What is the highest city in the state where Dell ranks sixth by revenue?": [
+    [
+      "Which state does Dell rank sixth by revenue?",
+      "What is the highest city in #1?"
+    ],
+    -0.09953441395238097
+  ],
+  "Which missionary helped spread the religion widely practiced in region having the second largest rain-forest in the world?": [
+    [
+      "What is the region having the second largest rain-forest in the world?",
+      "Which religion is widely practiced in #1?",
+      "Which missionary helped spread #2?"
+    ],
+    -0.11566580156400003
+  ],
+  "After the war that provides the setting for Memoirs of a Geisha, a conflict in which Germany was divided into two countries, developed between the U.S. and what nation?": [
+    [
+      "What war provides the setting for Memoirs of a Geisha?",
+      "When was Germany divided into two countries?",
+      "After #2, a conflict developed between the U.S. and what nation?"
+    ],
+    -0.14227059052632554
+  ],
+  "What war provides the setting for Memoirs of a Geisha?": [
+    [
+      "What is the setting of Memoirs of a Geisha?",
+      "What war is #1 set in?"
+    ],
+    -0.149099751400375
+  ],
+  "When did the religious order that founded Harvard College, arrive in the region of the U.S. served by the Rainbow Times?": [
+    [
+      "Which religious order founded Harvard College?",
+      "Which region of the U.S. is served by the Rainbow Times?",
+      "When did #1 arrive in #2?"
+    ],
+    -0.07948070310657146
+  ],
+  "Which religious order founded Harvard College?": [
+    [
+      "Who founded Harvard College?",
+      "Which religious order was #1 a part of?"
+    ],
+    -0.20524718671722222
+  ],
+  "What did Bloomberg name the country formerly known as the region where the Spanish and Portuguese took most of their slaves from?": [
+    [
+      "What region did the Spanish and Portuguese take most of their slaves from?",
+      "What did Bloomberg name the #1?"
+    ],
+    -0.1500966860824
+  ],
+  "Who is the actress who plays the role of the Queen of England in 1890, on the network that aired The Dinosaurs!?": [
+    [
+      "What network aired The Dinosaurs!?",
+      "Who plays the role of the Queen of England in 1890 on #1?"
+    ],
+    -0.1399458888869231
+  ],
+  "What network aired The Dinosaurs!?": [
+    [
+      "What is the name of the show The Dinosaurs!?",
+      "What network aired #1?"
+    ],
+    -0.26609380478066663
+  ],
+  "What gun does the director of Pollock use in Westworld?": [
+    [
+      "Who is the director of Pollock?",
+      "What gun does #1 use in Westworld?"
+    ],
+    -0.038018803277142854
+  ],
+  "What gun does Amy Madigan's spouse used in westworld?": [
+    [
+      "Who is Amy Madigan's spouse?",
+      "What gun did #1 used in westworld?"
+    ],
+    -0.10798435906428575
+  ],
+  "Which war did the operator of the Finnish coastal defence ship Ilmarinen serve in?": [
+    [
+      "Who operated the Finnish coastal defence ship Ilmarinen?",
+      "Which war did #1 serve in?"
+    ],
+    -0.062077946809090914
+  ],
+  "Which war did the operator of the Fabian Wrede-class training ship serve in?": [
+    [
+      "Who operated the Fabian Wrede-class training ship?",
+      "Which war did #1 serve in?"
+    ],
+    -0.04918761966625001
+  ],
+  "Where did the author of A Lion's Tale: Around the World in Spandex win in 2008?": [
+    [
+      "Who is the author of A Lion's Tale: Around the World in Spandex?",
+      "Where did #1 win in 2008?"
+    ],
+    -0.019389534507827582
+  ],
+  "Where did the wrestler who has won the most intercontinental championships win in 2008?": [
+    [
+      "Who has won the most intercontinental championships?",
+      "Where did #1 win in 2008?"
+    ],
+    -0.03692895839100001
+  ],
+  "The city that Psycho Donuts is located in is in which county?": [
+    [
+      "Where is Psycho Donuts located?",
+      "Which county is #1 in?"
+    ],
+    -0.10108361176470587
+  ],
+  "Which country has a body of water that was inspiration for the name of the Mara Region?": [
+    [
+      "What is the name of the Mara Region?",
+      "Which country has a body of water that inspired #1?"
+    ],
+    -0.16514282789666668
+  ],
+  "The Unwinding author volunteered for which organisation?": [
+    [
+      "Who is the author of The Unwinding?",
+      "Which organisation did #1 volunteer for?"
+    ],
+    -0.04810649108285713
+  ],
+  "What district is the headquarter of Julia's House located?": [
+    [
+      "What is the headquarter of Julia's House?",
+      "Which district is #1 located in?"
+    ],
+    -0.09735231043952383
+  ],
+  "Who is the spouse of Young Man Luther's author?": [
+    [
+      "Who is the author of Young Man Luther?",
+      "Who is the spouse of #1?"
+    ],
+    -0.028300459517500005
+  ],
+  "Who is the child of the person who followed Tihomir of Serbia?": [
+    [
+      "Who followed Tihomir of Serbia?",
+      "Who is the child of #1?"
+    ],
+    -0.019838528372
+  ],
+  "What's the place of birth of the former member of The Sunnyboys?": [
+    [
+      "Who is the former member of The Sunnyboys?",
+      "Where was #1 born?"
+    ],
+    -0.03318439597894737
+  ],
+  "What award was received by the person who authored Missing Person?": [
+    [
+      "Who authored Missing Person?",
+      "What award was received by #1?"
+    ],
+    -0.09195749665625
+  ],
+  "Who is the spouse of the creator of The Nanny Reunion: A Nosh to Remember?": [
+    [
+      "Who is the creator of The Nanny Reunion: A Nosh to Remember?",
+      "Who is the spouse of #1?"
+    ],
+    -0.024111493879071428
+  ],
+  "In what era was the company known as the manufacturer of Agni-V founded?": [
+    [
+      "What company is known as the manufacturer of Agni-V?",
+      "In what era was #1 founded?"
+    ],
+    -0.09734671259458333
+  ],
+  "Where does the second largest city in the state where Yuma's Library District is located hold NASCAR races?": [
+    [
+      "What state is Yuma's Library District located in?",
+      "What is the second largest city in #1?",
+      "Where does #2 hold NASCAR races?"
+    ],
+    -0.07388869651515152
+  ],
+  "Who won the 1993 Indy Car Race in the largest city of the state containing the city where the performer of the album Mingus Three is from?": [
+    [
+      "Which city is the performer of the album Mingus Three from?",
+      "What is the largest city in the state containing #1?",
+      "Who won the 1993 Indy Car Race in #2?"
+    ],
+    -0.11892543522100008
+  ],
+  "Which city is the performer of the album Mingus Three from?": [
+    [
+      "Who is the performer of the album Mingus Three?",
+      "Which city is #1 from?"
+    ],
+    -0.05056406763857143
+  ],
+  "Who won the Indy car race in the largest city and capital of the state where the performer of Tijuana Moods was born?": [
+    [
+      "What is the largest city and capital of the state where the performer of Tijuana Moods was born?",
+      "Who won the Indy car race in #1?"
+    ],
+    -0.06220233617999999
+  ],
+  "What is the largest city and capital of the state where the performer of Tijuana Moods was born?": [
+    [
+      "Who is the performer of Tijuana Moods?",
+      "What is the largest city and capital of the state of #1?"
+    ],
+    -0.07681896918481483
+  ],
+  "Who won the Indy Car Race in the largest populated city of the state where the performer of The Black Saint and the Sinner Lady is from?": [
+    [
+      "Who is the performer of The Black Saint and the Sinner Lady?",
+      "What is the largest populated city of the state of #1?",
+      "Who won the Indy Car Race in #2?"
+    ],
+    -0.09798196413439024
+  ],
+  "Who won the Indy Car Race in the largest populated city of the state where the performer of Mingus Plays Piano is from?": [
+    [
+      "Which state is the performer of Mingus Plays Piano from?",
+      "What is the largest populated city in #1?",
+      "Who won the Indy Car Race in #2?"
+    ],
+    -0.07594340667027781
+  ],
+  "Which state is the performer of Mingus Plays Piano from?": [
+    [
+      "Who is the performer of Mingus Plays Piano?",
+      "Which state is #1 from?"
+    ],
+    -0.0206693135105
+  ],
+  "Who won the Indy car race in the largest city and capitol of the state where the Changes Two performer is from?": [
+    [
+      "Which state is the Changes Two performer from?",
+      "What is the largest city and capitol of #1?",
+      "Who won the Indy car race in #2?"
+    ],
+    -0.07386223093514284
+  ],
+  "Which state is the Changes Two performer from?": [
+    [
+      "Who is the Changes Two performer?",
+      "Which state is #1 from?"
+    ],
+    -0.05966857050411765
+  ],
+  "When was the region that lies to the north of the region where Strangers No More took place and the Persian Gulf created?": [
+    [
+      "What region does Strangers No More take place in?",
+      "What region lies to the north of #1 and the Persian Gulf?",
+      "When was #2 created?"
+    ],
+    -0.11579990921000002
+  ],
+  "When was the region immediately north of the region of the country in Strangers No More and the Persian Gulf established?": [
+    [
+      "What is the region of the country in Strangers No More?",
+      "What is the region immediately north of #1 and the Persian Gulf?",
+      "When was #2 established?"
+    ],
+    -0.12217955233594595
+  ],
+  "How many atms does the bank that bought FleetBoston Financial has are there?": [
+    [
+      "Which bank bought FleetBoston Financial?",
+      "How many ATMs does #1 have?"
+    ],
+    -0.05725287718052632
+  ],
+  "Who, along with the author of An Essay on the History of Civil Society, criticized the idea of social contract theorists?": [
+    [
+      "Who is the author of An Essay on the History of Civil Society?",
+      "Who, along with #1, criticized the idea of social contract theorists?"
+    ],
+    -0.03787155324239395
+  ],
+  "What year did the group that performed From Them, Through Us, to You form?": [
+    [
+      "Which group performed From Them, Through Us, to You?",
+      "What year did #1 form?"
+    ],
+    -0.05920597837318182
+  ],
+  "When did the president of Notre Dame in 2012 begin his tenure?": [
+    [
+      "Who was the president of Notre Dame in 2012?",
+      "When did #1 begin his tenure?"
+    ],
+    -0.02891011950619047
+  ],
+  "Who wrote turn me on, which was performed by the person who also performed Chasing Pirates?": [
+    [
+      "Who performed Chasing Pirates?",
+      "Who wrote Turn Me On, which was performed by #1?"
+    ],
+    -0.1675533796477273
+  ],
+  "Who created the main character of The Godfather?": [
+    [
+      "Who is the main character of The Godfather?",
+      "Who created #1?"
+    ],
+    -0.043073316717222226
+  ],
+  "Who wrote Turn Me On by the performer who also did Sinkin' Soon?": [
+    [
+      "Who performed Sinkin' Soon?",
+      "Who wrote Turn Me On by #1?"
+    ],
+    -0.112227206005
+  ],
+  "In The Godfather, who does the actor producing the Freddie Mercury film play?": [
+    [
+      "Who is producing the Freddie Mercury film?",
+      "In The Godfather, who does #1 play?"
+    ],
+    -0.17546602241636364
+  ],
+  "Who is producing the Freddie Mercury film?": [
+    [
+      "What is the Freddie Mercury film?",
+      "Who is producing #1?"
+    ],
+    -0.160281606239375
+  ],
+  "What is the league of the Carolina Panthers an example of?": [
+    [
+      "What is the Carolina Panthers?",
+      "What league is #1 an example of?"
+    ],
+    -0.22410767841388887
+  ],
+  "Who played the character in Willy Wonka and the Chocolate Factory that the performer of Victrola was named after?": [
+    [
+      "Who is the performer of Victrola?",
+      "Which character in Willy Wonka and the Chocolate Factory was #1 named after?",
+      "Who played #2?"
+    ],
+    -0.09170124822017141
+  ],
+  "What is the source of the river of which Kraai River is a tributary?": [
+    [
+      "Which river is Kraai River a tributary of?",
+      "What is the source of #1?"
+    ],
+    -0.06318800683313043
+  ],
+  "Who played the character with the same name as the Volcano Girls performer in Willy Wonka and the Chocolate Factory?": [
+    [
+      "Who is the Volcano Girls performer?",
+      "Who played the character with the same name as #1 in Willy Wonka and the Chocolate Factory?"
+    ],
+    -0.09441994404677417
+  ],
+  "Where is the origin of the river that Orlam clans crossed to migrate to Namibia?": [
+    [
+      "Which river did Orlam clans cross to migrate to Namibia?",
+      "Where is the origin of #1?"
+    ],
+    -0.08327816826250002
+  ],
+  "Who was the company preceding Metalmark Capital named after?": [
+    [
+      "What is the name of the company preceding Metalmark Capital?"
+    ],
+    -0.17036793910357143
+  ],
+  "How many people were in British Colonies where does the london broil cut come from ?": [
+    [
+      "Where does the London Broil cut come from?",
+      "How many people were in British Colonies #1?"
+    ],
+    -0.12560384628208332
+  ],
+  "In Grown Ups, who plays the wife of the actor who produced The Chosen One?": [
+    [
+      "Who produced The Chosen One?",
+      "In Grown Ups, who plays the wife of #1?"
+    ],
+    -0.07539296441768181
+  ],
+  "What date did the creator of Autumn Leaves die?": [
+    [
+      "Who is the creator of Autumn Leaves?",
+      "What date did #1 die?"
+    ],
+    -0.04620053655722223
+  ],
+  "When was the father of Diego Sinagra signed by Barcelona?": [
+    [
+      "Who is the father of Diego Sinagra?",
+      "When was #1 signed by Barcelona?"
+    ],
+    -0.024912700771
+  ],
+  "When was the footballer who decided not to be a torchbearer because of the controversy signed by Barcelona?": [
+    [
+      "Which footballer decided not to be a torchbearer because of the controversy?",
+      "When was #1 signed by Barcelona?"
+    ],
+    -0.03609765370346153
+  ],
+  "Where is the place where Rudolph the red-nosed reindeer lives on the world map?": [
+    [
+      "Where does Rudolph the red-nosed reindeer live?",
+      "Where is #1 on the world map?"
+    ],
+    -0.05747927884
+  ],
+  "Which artist was featured on smooth jazz stations, along with Kenny G and the performer of Saxophonic?": [
+    [
+      "Who is the performer of Saxophonic?",
+      "Which artist was featured on smooth jazz stations, along with Kenny G and #1?"
+    ],
+    -0.07795308827586207
+  ],
+  "What team is the player who led the league in sacks in 2017 a member of?": [
+    [
+      "Who led the league in sacks in 2017?",
+      "What team is #1 a member of?"
+    ],
+    -0.02554552127095238
+  ],
+  "Who is the father of Nim's actress in Return to Nim's Island?": [
+    [
+      "Who is the actress in Return to Nim's Island?",
+      "Who is the father of #1?"
+    ],
+    -0.06939366233636363
+  ],
+  "Mohamed Atta's car made by the car manufacturer owning the naming rights to titans stadium is a type of what?": [
+    [
+      "Which car manufacturer owns the naming rights to titans stadium?",
+      "What type of car was Mohamed Atta driving?",
+      "What type of car is #2 made by #1?"
+    ],
+    -0.17476462653526312
+  ],
+  "When did Burma change its name to the country that is the natural boundary between the country that hosted the tournament and the country where A Don is located?": [
+    [
+      "What is the natural boundary between the country that hosted the tournament and the country where A Don is located?",
+      "When did Burma change its name to #1?",
+      "Which country hosted the tournament?",
+      "Which country is A Don located in?"
+    ],
+    -0.09357973549359999
+  ],
+  "When was the region immediately north of the region where Israel is located and the final destination for the export crops created?": [
+    [
+      "What is the region immediately north of the region where Israel is located?",
+      "When was the #1 created as the final destination for the export crops?"
+    ],
+    -0.1961055073915624
+  ],
+  "What is the region immediately north of the region where Israel is located?": [
+    [
+      "Where is Israel located?",
+      "What is the region immediately north of #1?"
+    ],
+    -0.05894718163777776
+  ],
+  "When was the region that lies to the north of what used to be known as the \"Near East\" and the location of the final destination of exported crops created?": [
+    [
+      "What used to be known as the \"Near East\"?",
+      "What is the region to the north of #1?",
+      "When was #2 created?"
+    ],
+    -0.17700608421424247
+  ],
+  "When was the region that lies to the north of the region Israel is located and where the Battle of Qurah and Umm al Maradim is took place established?": [
+    [
+      "What region lies to the north of the region Israel is located?",
+      "When was the Battle of Qurah and Umm al Maradim took place?",
+      "When was #1 established?"
+    ],
+    -0.1424998165715
+  ],
+  "What region lies to the north of the region Israel is located?": [
+    [
+      "Where is Israel located?",
+      "What region lies to the north of #1?"
+    ],
+    -0.050359876948333326
+  ],
+  "When was the region immediately north of the region prevailing with the disgrace of the Near East and the final destination for the export crops established?": [
+    [
+      "What is the region prevailing with the disgrace of the Near East?",
+      "What is the final destination for the export crops?",
+      "When was the region immediately north of #1 established?"
+    ],
+    -0.07521454692894738
+  ],
+  "When was the region that lies to the north of where Israel is located and where The World is located established?": [
+    [
+      "Where is The World located?",
+      "Where is Israel located?",
+      "When was the region to the north of #2 and #1 established?"
+    ],
+    -0.09831052428999999
+  ],
+  "A group of nations of which the People's Socialist Republic of Albania was a member was controlled by one country. When did that country agree to a unified Germany inside of the organization Eisenhower would not discuss during the campaign?": [
+    [
+      "Which country controlled the group of nations of which the People's Socialist Republic of Albania was a member?",
+      "Which organization did Eisenhower not discuss during the campaign?",
+      "When did #1 agree to a unified Germany inside of #2?"
+    ],
+    -0.11954940884166666
+  ],
+  "Which country controlled the group of nations of which the People's Socialist Republic of Albania was a member?": [
+    [
+      "Which group of nations was the People's Socialist Republic of Albania a member of?",
+      "Which country controlled #1?"
+    ],
+    -0.13089319027319998
+  ],
+  "How many ethnic minorities were looked at differently in the city where the headquarters of the only group larger than L\u00e5nga n\u00e4tter's record label is located?": [
+    [
+      "Where is the headquarters of the only group larger than L\u00e5nga n\u00e4tter's record label located?",
+      "How many ethnic minorities were looked at differently in #1?"
+    ],
+    -0.05833869999842106
+  ],
+  "At the end of which year did the tribes from where the Michelsberg culture is from invade the Roman Empire?": [
+    [
+      "Which tribes are the Michelsberg culture from?",
+      "At the end of which year did #1 invade the Roman Empire?"
+    ],
+    -0.11408223524444444
+  ],
+  "Where is the Voshmgir District located?": [
+    [
+      "What is the Voshmgir District?",
+      "Where is #1 located?"
+    ],
+    -0.056172234313611104
+  ],
+  "Where is the province containing Bandar-e Gaz County located?": [
+    [
+      "Which province contains Bandar-e Gaz County?",
+      "Where is #1 located?"
+    ],
+    -0.058160655667684205
+  ],
+  "What is the experimental satellite that was the forerunner to communication satellite of the operator of INSAT-4CR called?": [
+    [
+      "Who is the operator of INSAT-4CR?",
+      "What is the experimental satellite that was the forerunner to communication satellite of #1 called?"
+    ],
+    -0.10290824378374999
+  ],
+  "Who played the girlfriend of Alex P. Keaton's actor on Family Ties in Back to the Future?": [
+    [
+      "Who is the actor of Alex P. Keaton in Family Ties?",
+      "Who played the girlfriend of #1 in Back to the Future?"
+    ],
+    -0.15157695752129033
+  ],
+  "What field does the author of Parallel Worlds work in?": [
+    [
+      "Who is the author of Parallel Worlds?",
+      "What field does #1 work in?"
+    ],
+    -0.01682154994842105
+  ],
+  "When did the person who took over the territory and made it part of their empire die?": [
+    [
+      "Who took over the territory and made it part of their empire?",
+      "When did #1 die?"
+    ],
+    -0.010903080290454545
+  ],
+  "Who is the spouse of the actor who plays Jarvis in Iron Man?": [
+    [
+      "Who plays Jarvis in Iron Man?",
+      "Who is the spouse of #1?"
+    ],
+    -0.040295718584444445
+  ],
+  "When did the team that won the 1959 fa cup final beating luton town 2-1 win the fa cup?": [
+    [
+      "Which team won the 1959 fa cup final beating luton town 2-1?",
+      "When did #1 win the fa cup?"
+    ],
+    -0.06302132282535713
+  ],
+  "Which country is the Desert Forest Golf Club located in?": [
+    [
+      "Where is the Desert Forest Golf Club located?",
+      "Which country is #1 in?"
+    ],
+    -0.06068875908631579
+  ],
+  "The person credited with the discovery of the neutron is a participant in what project?": [
+    [
+      "Who is credited with the discovery of the neutron?",
+      "What project is #1 a participant in?"
+    ],
+    -0.06650207086045455
+  ],
+  "What was the person who provided evidence to suggest the existence of the neutron a participant of?": [
+    [
+      "Who provided evidence to suggest the existence of the neutron?",
+      "What was #1 a participant of?"
+    ],
+    -0.01337922445818182
+  ],
+  "According to QS World University Rankings where does the university where Hawass graduated rank?": [
+    [
+      "Which university did Hawass graduate from?",
+      "According to QS World University Rankings, where does #1 rank?"
+    ],
+    -0.10964805934560001
+  ],
+  "Where is the headquarters of the organization that the Office of Science Education is a part of?": [
+    [
+      "What organization is the Office of Science Education a part of?",
+      "Where is the headquarters of #1?"
+    ],
+    -0.04948261088826087
+  ],
+  "According to QS World University Rankings, what is the ranking of the place that employed Said Ashour?": [
+    [
+      "Where did Said Ashour work?",
+      "What is the ranking of #1 according to QS World University Rankings?"
+    ],
+    -0.09745522071599998
+  ],
+  "On what date was the battle where Muhammad Shobran was born?": [
+    [
+      "Where was Muhammad Shobran born?",
+      "On what date was the battle in #1?"
+    ],
+    -0.09909463754761903
+  ],
+  "On what date did Battle of the birth place of Marzuki Alie end?": [
+    [
+      "Where was Marzuki Alie born?",
+      "On what date did Battle of #1 end?"
+    ],
+    -0.08793655645090909
+  ],
+  "When does Pam and the person Pam marries on The Office get together?": [
+    [
+      "Who does Pam marry on The Office?",
+      "When does Pam and #1 get together?"
+    ],
+    -0.075105698608
+  ],
+  "What episode in the office did Pam get married to her spouse?": [
+    [
+      "Who is Pam's spouse?",
+      "What episode in the office did #1 get married to Pam?"
+    ],
+    -0.19920835675
+  ],
+  "What was the date that Pam got married in The Office?": [
+    [
+      "Who got married in The Office?",
+      "What was the date of #1's marriage?"
+    ],
+    -0.12620565757899999
+  ],
+  "Who got married in The Office?": [
+    [
+      "Who is Pam in The Office?",
+      "Who got married in #1?"
+    ],
+    -0.23017575914235294
+  ],
+  "When do Pam and Pam's spouse on The Office end up together?": [
+    [
+      "Who is Pam's spouse on The Office?",
+      "When do Pam and #1 end up together?"
+    ],
+    -0.0373165482059091
+  ],
+  "In which years did the war with the person who the Ioannina National Airport is name after occur?": [
+    [
+      "Who is the person the Ioannina National Airport is named after?",
+      "In which years did the war with #1 occur?"
+    ],
+    -0.11647104015857142
+  ],
+  "In which years did the war with the military leader from which the term Pyrrhic victory comes occur?": [
+    [
+      "Which military leader is the term Pyrrhic victory associated with?",
+      "In which years did the war with #1 occur?"
+    ],
+    -0.16615576044099997
+  ],
+  "How long had the city where the Yongle emperor greeted the person to whom the edict was addressed been the capitol of Yaxing Coach's headquarters location?": [
+    [
+      "Where is Yaxing Coach's headquarters located?",
+      "Who was the person to whom the edict was addressed?",
+      "Where did the Yongle emperor greet #2?",
+      "How long had #3 been the capitol of #1?"
+    ],
+    -0.16013716540707995
+  ],
+  "What treaty ceded territory to the US extending west to the body of water by the city where the designer of Southeast Library died?": [
+    [
+      "Which city is the designer of Southeast Library died in?",
+      "What body of water is located west of #1?",
+      "What treaty ceded territory to the US extending west to #2?"
+    ],
+    -0.23244541215999998
+  ],
+  "Where does the body of water by the city where the Southeast Library designer died empty into the Gulf of Mexico?": [
+    [
+      "Which city is the Southeast Library designer died in?",
+      "Where does the body of water by #1 empty into the Gulf of Mexico?"
+    ],
+    -0.17858823748413793
+  ],
+  "Which city is the Southeast Library designer died in?": [
+    [
+      "Who is the designer of the Southeast Library?",
+      "Where did #1 die?"
+    ],
+    -0.13110234552388889
+  ],
+  "What is the abbreviation for Angela Merkel's original home country that once had border troops called the Deutsche Grenzpolizei?": [
+    [
+      "What is Angela Merkel's original home country?",
+      "What is the abbreviation for #1?",
+      "What was the name of the border troops of #1?"
+    ],
+    -0.18399780395382348
+  ],
+  "What is Angela Merkel's original home country?": [
+    [
+      "Where was Angela Merkel born?",
+      "#1 is the original home country of Angela Merkel?"
+    ],
+    -0.20260080879894737
+  ],
+  "The military group of which the Air Defense Artillery is a branch was unprepared for the invasion of the territory the Nazis occupied. The country of this group was the only communist country to have an embassy where?": [
+    [
+      "Which military group is the Air Defense Artillery a branch of?",
+      "Which territory did the Nazis occupy?",
+      "Which country was the only communist country to have an embassy in #2?",
+      "Where is the embassy of #3?"
+    ],
+    -0.21710970390291662
+  ],
+  "Which military group is the Air Defense Artillery a branch of?": [
+    [
+      "What is the Air Defense Artillery?",
+      "Which military group is #1 a branch of?"
+    ],
+    -0.07835996382238097
+  ],
+  "Hana Mandlikova was born in Country A that invaded Country B because the military branch the Air Defense Artillery is part of was unprepared. Country B was the only communist country to have an embassy where?": [
+    [
+      "Which country invaded Country B because the military branch the Air Defense Artillery is part of was unprepared?",
+      "Which country was the only communist country to have an embassy?",
+      "Where is the embassy of #2 located?"
+    ],
+    -0.1965353958106667
+  ],
+  "Which country invaded Country B because the military branch the Air Defense Artillery is part of was unprepared?": [
+    [
+      "Hana Mandlikova was born in which country?",
+      "Which country did #1 invade because the military branch the Air Defense Artillery is part of was unprepared?"
+    ],
+    -0.08887768108371426
+  ],
+  "When was \"Slavs\" used in the national anthem of the country whose military having the Air Defense Artillery was unprepared for the invasion of the country conquered by the Pact?": [
+    [
+      "Which country was conquered by the Pact?",
+      "Which country has the Air Defense Artillery?",
+      "When was \"Slavs\" used in the national anthem of #2?",
+      "Was the military of #2 unprepared for the invasion of #1?"
+    ],
+    -0.19010003741692308
+  ],
+  "Who is the president of the newly declared independent country, that established the Timor Leste Commission of Truth and Friendship with the country where the Alas is found?": [
+    [
+      "Which country is the Alas found in?",
+      "What is the newly declared independent country that established the Timor Leste Commission of Truth and Friendship with #1?",
+      "Who is the president of #2?"
+    ],
+    -0.1379006575531628
+  ],
+  "Which country is the Alas found in?": [
+    [
+      "Where is the Alas located?",
+      "Which country is #1 in?"
+    ],
+    -0.10990859567124998
+  ],
+  "Who is the president of the newly declared independent country that is part of the commission of Truth and Friendship with the country where Inierie is located?": [
+    [
+      "Which country is Inierie located in?",
+      "What is the newly declared independent country that is part of the commission of Truth and Friendship with #1?",
+      "Who is the president of #2?"
+    ],
+    -0.09820095888809524
+  ],
+  "Which country is Inierie located in?": [
+    [
+      "Where is Inierie located?",
+      "Which country is #1 in?"
+    ],
+    -0.10895173279294117
+  ],
+  "What is the meaning of the word that is also the majority religion in India when the country where Dubbi is located was created in the Arabic dictionary?": [
+    [
+      "Which country is Dubbi located in?",
+      "What is the majority religion in India when #1 was created?",
+      "What is the meaning of #2 in the Arabic dictionary?"
+    ],
+    -0.06147148837189192
+  ],
+  "Who is the owner of the record label of the performer responsible for the album Just Got Started Lovin' You?": [
+    [
+      "Who is the performer responsible for the album Just Got Started Lovin' You?",
+      "Who is the owner of the record label of #1?"
+    ],
+    -0.05364402806929033
+  ],
+  "Who is the owner of the record label that singer of the theme song from the movie Arthur belongs to?": [
+    [
+      "Who sang the theme song from the movie Arthur?",
+      "What is the record label of #1 owned by?"
+    ],
+    -0.15743918883583333
+  ],
+  "Who is the owner of the record label that the singer of I just got started lovin you belongs to?": [
+    [
+      "Who is the singer of I just got started lovin you?",
+      "Who is the owner of the record label of #1?"
+    ],
+    -0.11565855411785712
+  ],
+  "What is the average salary of a working citizen of the same nationality as the author of The Feminine Mystique?": [
+    [
+      "Who is the author of The Feminine Mystique?",
+      "What is the average salary of a working citizen of the same nationality as #1?"
+    ],
+    -0.042350750245064524
+  ],
+  "What administrative territorial entity is the owner of Ciudad Deportiva located?": [
+    [
+      "Where is Ciudad Deportiva located?",
+      "What administrative territorial entity is #1 owned by?"
+    ],
+    -0.11097937373586957
+  ],
+  "Where is Ulrich Walter's employer headquartered?": [
+    [
+      "Who is Ulrich Walter?",
+      "Where is #1's employer headquartered?"
+    ],
+    -0.08616390856235295
+  ],
+  "Where was Tyler MacDuff's child educated?": [
+    [
+      "Who is Tyler MacDuff's child?",
+      "Where was #1 educated?"
+    ],
+    -0.02848553555944444
+  ],
+  "Where was the author of Hannibal and Scipio educated at?": [
+    [
+      "Who is the author of Hannibal and Scipio?",
+      "Where was #1 educated at?"
+    ],
+    -0.025842721129809527
+  ],
+  "In which county is Southern Maryland Electric Cooperative headquartered?": [
+    [
+      "What is the headquarters of Southern Maryland Electric Cooperative?",
+      "Which county is #1 located in?"
+    ],
+    -0.1273493216271428
+  ],
+  "What instrument is played by the person from The Blackout All-Stars?": [
+    [
+      "Who is the person from The Blackout All-Stars?",
+      "What instrument does #1 play?"
+    ],
+    -0.06291103862727275
+  ],
+  "Who is the spouse of the child of Peter Andreas Heiberg?": [
+    [
+      "Who is the child of Peter Andreas Heiberg?",
+      "Who is the spouse of #1?"
+    ],
+    -0.039748980979545455
+  ],
+  "Who has more national championships, the university where Fort Hill is, or the university in the state where Edwards won the primary, along with winning in the state containing WDXQ?": [
+    [
+      "Which university is Fort Hill located in?",
+      "Which state did Edwards win the primary in?",
+      "Which state contains WDXQ?",
+      "Who has more national championships, #1 or #2?"
+    ],
+    -0.18064248580292686
+  ],
+  "Which state did Edwards win the primary in?": [
+    [
+      "Who won the primary in the state containing WDXQ?",
+      "Which state did #1 win the primary in?"
+    ],
+    -0.141192500106
+  ],
+  "Who won the primary in the state containing WDXQ?": [
+    [
+      "Which state contains WDXQ?",
+      "Who won the primary in #1?"
+    ],
+    -0.0695218381818889
+  ],
+  "Who won more national championships between the university featuring Fort Hill and the university of the state where Edwards won the primary besides the state where the Richmond Braves moved?": [
+    [
+      "Which university features Fort Hill?",
+      "Which state did Edwards win the primary besides the state where the Richmond Braves moved?",
+      "Which university won more national championships between #1 and the university of #2?"
+    ],
+    -0.19133672601428567
+  ],
+  "Which university features Fort Hill?": [
+    [
+      "What is the name of the university featuring Fort Hill?",
+      "#1 features Fort Hill?"
+    ],
+    -0.2781824915478947
+  ],
+  "Who has more national championships than the school with Fort Hill or the facility in the location Edwards won the primary, but not the state with the 404 area code?": [
+    [
+      "Which school has Fort Hill?",
+      "Which facility is located in the location Edwards won the primary?",
+      "Which state has the 404 area code?",
+      "Who has more national championships than #1 or #2, but not #3?"
+    ],
+    -0.14346977683333328
+  ],
+  "Which county shares a border with the county where the most populous city in the state where Redan High School is located?": [
+    [
+      "What state is Redan High School located in?",
+      "What is the most populous city in #1?",
+      "Which county shares a border with the county where #2 is located?"
+    ],
+    -0.1268842007413158
+  ],
+  "What state is Redan High School located in?": [
+    [
+      "Where is Redan High School located?",
+      "What state is #1 in?"
+    ],
+    -0.043133039845
+  ],
+  "Which county shares a border with the county where the most populous city in the state that sentenced Demarcus Sears to death is located?": [
+    [
+      "What state sentenced Demarcus Sears to death?",
+      "What is the most populous city in #1?",
+      "Which county shares a border with the county where #2 is located?"
+    ],
+    -0.09755687958973684
+  ],
+  "When did the town WLUJ is licensed in become capitol of the state in which a statue of a Latin mother goddess is located?": [
+    [
+      "Which town is WLUJ licensed in?",
+      "Which state has a statue of a Latin mother goddess?",
+      "When did #1 become the capitol of #2?"
+    ],
+    -0.1327683931352778
+  ],
+  "When was the most recent Bicycle Friendly Community Award given to the city where the headquarters of the only group larger than L\u00e5nga n\u00e4tter's record label is located?": [
+    [
+      "What is the only group larger than L\u00e5nga n\u00e4tter's record label?",
+      "Where is the headquarters of #1 located?",
+      "When was the most recent Bicycle Friendly Community Award given to #2?"
+    ],
+    -0.08267148803782608
+  ],
+  "What is the only group larger than L\u00e5nga n\u00e4tter's record label?": [
+    [
+      "What is the record label of L\u00e5nga n\u00e4tter?",
+      "What is the only group larger than #1?"
+    ],
+    -0.08969614958035713
+  ],
+  "When did the city that WIZE is licensed to broadcast to, become the capital of the state, that contains the county where the Battle of Rich Mountain occurred?": [
+    [
+      "Which city is WIZE licensed to broadcast to?",
+      "Which state contains the county where the Battle of Rich Mountain occurred?",
+      "When did #1 become the capital of #2?"
+    ],
+    -0.056485047797368425
+  ],
+  "Which state contains the county where the Battle of Rich Mountain occurred?": [
+    [
+      "Which county is the Battle of Rich Mountain located in?",
+      "Which state contains #1?"
+    ],
+    -0.17988903679499996
+  ],
+  "When did the luxury division of the manufacturer change the body style of RX 350?": [
+    [
+      "Which manufacturer's luxury division changed the body style of RX 350?",
+      "When did #1 change the body style of RX 350?"
+    ],
+    -0.1530083146078571
+  ],
+  "When did the maker of the Acura Legend, the company that built Daihatsu Boon, and Nissan open US assembly plants?": [
+    [
+      "Which company made the Acura Legend?",
+      "Which company built Daihatsu Boon?",
+      "Which company is Nissan?",
+      "When did #1, #2, and #3 open US assembly plants?"
+    ],
+    -0.11034826626176746
+  ],
+  "When did the maker of the Acura Legend, the manufacturer of Toyopet Master, and Nissan open US assembly plants?": [
+    [
+      "Who is the maker of the Acura Legend?",
+      "Who is the manufacturer of Toyopet Master?",
+      "Who is Nissan?",
+      "When did #1, #2, and #3 open US assembly plants?"
+    ],
+    -0.09695042062577777
+  ],
+  "When did Nissan along with the creator of the Hino Dutro and the maker of the Acura Legend open US assembly plants?": [
+    [
+      "Who created the Hino Dutro?",
+      "Who made the Acura Legend?",
+      "When did Nissan along with #1 and #2 open US assembly plants?"
+    ],
+    -0.06477901670885715
+  ],
+  "In what region of the country where Lam Dong is located is John Phan's birthplace?": [
+    [
+      "Where is Lam Dong located?",
+      "Where was John Phan born?",
+      "In what region of the #1 is #2 located?"
+    ],
+    -0.15648820404827588
+  ],
+  "In what region of the country containing An Ph\u00fa, is the city with the Zone 5 Military Museum located?": [
+    [
+      "Which country is An Ph\u00fa located in?",
+      "Which city has the Zone 5 Military Museum?",
+      "What region of #1 is #2 located in?"
+    ],
+    -0.16294257100484846
+  ],
+  "What UK label was purchased by the company that, along with the distributor of The Cube, and ABC, is the other major New York-based broadcaster?": [
+    [
+      "Which company, along with the distributor of The Cube, and ABC, is the other major New York-based broadcaster?",
+      "What UK label was purchased by #1?"
+    ],
+    -0.08559673253777779
+  ],
+  "Which company, along with the distributor of The Cube, and ABC, is the other major New York-based broadcaster?": [
+    [
+      "Who is the distributor of The Cube?",
+      "Which company, along with #1, ABC, is the other major New York-based broadcaster?"
+    ],
+    -0.16208390067967743
+  ],
+  "What UK label was bought by the company which, along with ABC and the network which hosts Hero High, is the other major broadcaster based in NY?": [
+    [
+      "Which network hosts Hero High?",
+      "Which company, along with ABC and #1, is the other major broadcaster based in NY?",
+      "What UK label was bought by #2?"
+    ],
+    -0.09268690635789474
+  ],
+  "Which network hosts Hero High?": [
+    [
+      "What is the name of the show Hero High?",
+      "Which network hosts #1?"
+    ],
+    -0.18589252621421054
+  ],
+  "On what team was the player who hit the first home run at the new location of NY Yankees home games?": [
+    [
+      "Where are the NY Yankees home games located?",
+      "Who hit the first home run at #1?",
+      "On what team was #2?"
+    ],
+    -0.23746995305333335
+  ],
+  "Where does the administrative territorial entity that contains the administrative territorial entity that contains summit hold NASCAR races?": [
+    [
+      "What administrative territorial entity contains the administrative territorial entity that contains summit?",
+      "Where does #1 hold NASCAR races?"
+    ],
+    -0.13172080002666667
+  ],
+  "How long are the city council terms in the city that is in the same county as Eric Marcus Municipal Airport?": [
+    [
+      "Which county is Eric Marcus Municipal Airport located in?",
+      "What city is in the same county as #1?",
+      "How long are the city council terms in #2?"
+    ],
+    -0.10604326067916665
+  ],
+  "When was the Palau de la Generalitat constructed in the city where Martin from the region where Trasobares is located died?": [
+    [
+      "Where is Trasobares located?",
+      "Where did Martin from #1 die?",
+      "When was the Palau de la Generalitat constructed in #2?"
+    ],
+    -0.10307370248554287
+  ],
+  "When was the Palau de la Generalitat in the city where Martin of the region where Urries is located constructed?": [
+    [
+      "Where is Urries located?",
+      "Which city is Martin from #1 located in?",
+      "When was the Palau de la Generalitat in #2 constructed?"
+    ],
+    -0.1431434048968571
+  ],
+  "When was the Palau de la Generalitat built in the place of death of Martin, of the region containing Piedratajada?": [
+    [
+      "Where did Martin die?",
+      "Which region contains Piedratajada?",
+      "When was the Palau de la Generalitat built in #1?"
+    ],
+    -0.115263223905
+  ],
+  "Where did Martin die?": [
+    [
+      "Who is Martin?",
+      "Where did #1 die?"
+    ],
+    -0.03675738533230769
+  ],
+  "When was the Palau de la Generalitat built in the city in which died the man called Martin of the region of Spain where Malanquilla is located?": [
+    [
+      "Where is Malanquilla located?",
+      "What region of Spain is #1 located in?",
+      "What city did Martin die in?",
+      "When was the Palau de la Generalitat built in #3?"
+    ],
+    -0.1629118422995455
+  ],
+  "Where is Malanquilla located?": [
+    [
+      "Who is Martin of the region of Spain where Malanquilla is located?",
+      "Where is #1 located?"
+    ],
+    -0.14987938499583336
+  ],
+  "When was the Palau de la Generalitat constructed in the city where Martin of the region of Pedrola died?": [
+    [
+      "Where did Martin of the region of Pedrola die?",
+      "When was the Palau de la Generalitat constructed in #1?"
+    ],
+    -0.07123240444713333
+  ],
+  "What is the enrollment at Henry Latimer's alma mater?": [
+    [
+      "Which university did Henry Latimer attend?",
+      "What is the enrollment at #1?"
+    ],
+    -0.09098872800000002
+  ],
+  "What is the enrollment where the first debate between Kerry and Bush took place?": [
+    [
+      "Where did the first debate between Kerry and Bush take place?",
+      "What is the enrollment of #1?"
+    ],
+    -0.053043983869130444
+  ],
+  "What label was responsible for who sang or played Delta Hardware?": [
+    [
+      "Who sang or played Delta Hardware?",
+      "What label was responsible for #1?"
+    ],
+    -0.027883967027777772
+  ],
+  "Arthur Marryatt is a member of a sports association that has who as president?": [
+    [
+      "Which sports association does Arthur Marryatt belong to?",
+      "Who is the president of #1?"
+    ],
+    -0.08817141001545453
+  ],
+  "Who is the president of the organization that Avery Brundage is a member of?": [
+    [
+      "Which organization is Avery Brundage a member of?",
+      "Who is the president of #1?"
+    ],
+    -0.04399492644381818
+  ],
+  "Where was the president born on the fourth of July born?": [
+    [
+      "Which president was born on the fourth of July?",
+      "Where was #1 born?"
+    ],
+    -0.03386334644789473
+  ],
+  "What is the birth place of the US president with whose election the republican ascendancy of the 1920's began?": [
+    [
+      "Which US president's election marked the beginning of the republican ascendancy of the 1920's?",
+      "Where was #1 born?"
+    ],
+    -0.13988283080222222
+  ],
+  "When did the father of Dahyabhai Patel die?": [
+    [
+      "Who is Dahyabhai Patel?",
+      "When did the father of #1 die?"
+    ],
+    -0.06040628600750002
+  ],
+  "Who is the employer of the physicist who Mach number is named after?": [
+    [
+      "Who is the physicist that Mach number is named after?",
+      "Who is the employer of #1?"
+    ],
+    -0.15719637772590908
+  ],
+  "Which university employed the person that Mach bands are named after?": [
+    [
+      "Who is the person that Mach bands are named after?",
+      "Which university employed #1?"
+    ],
+    -0.07715458703000003
+  ],
+  "What is the movie starring Preity Zinta, Madhuri Dixit and the spouse of Kajol?": [
+    [
+      "Who is the spouse of Kajol?",
+      "What is the movie starring Preity Zinta, Madhuri Dixit and #1?"
+    ],
+    -0.037522565864666665
+  ],
+  "What film features Anil Devgan's sibling?": [
+    [
+      "Who is Anil Devgan's sibling?",
+      "What film features #1?"
+    ],
+    -0.047876748558333335
+  ],
+  "Who is the child of the actor who is a cast member of Love in Pawn?": [
+    [
+      "Who is a cast member of Love in Pawn?",
+      "Who is the child of #1?"
+    ],
+    -0.049483232352227284
+  ],
+  "Of which river is the river Kichi Sipi Bridge crosses a tributary?": [
+    [
+      "What river does the Kichi Sipi Bridge cross?",
+      "Which river is #1 a tributary of?"
+    ],
+    -0.14604302823800003
+  ],
+  "Who married the publisher of abolitionist newspaper The North Star?": [
+    [
+      "Who is the publisher of The North Star?",
+      "Who married #1?"
+    ],
+    -0.12719922583705884
+  ],
+  "Who is the spouse of the first nominated African American presidential candidate?": [
+    [
+      "Who is the first nominated African American presidential candidate?",
+      "Who is the spouse of #1?"
+    ],
+    -0.0536899688095238
+  ],
+  "What university did the author of 1967: The Last Good Year attend?": [
+    [
+      "Who is the author of 1967: The Last Good Year?",
+      "Which university did #1 attend?"
+    ],
+    -0.031207400191818183
+  ],
+  "Who was honored with the highest award in India before becoming president?": [
+    [
+      "Who became president?",
+      "What is the highest award in India?",
+      "Who was #2 awarded to before #1?"
+    ],
+    -0.22816777972461535
+  ],
+  "What kind of recognition did the actor who played the game maker in hunger games receive?": [
+    [
+      "Who played the game maker in hunger games?",
+      "What kind of recognition did #1 receive?"
+    ],
+    -0.06778503651571428
+  ],
+  "What other recognition did the Oscar winner for Best Actor in 2006 receive?": [
+    [
+      "Who won the Oscar for Best Actor in 2006?",
+      "What other recognition did #1 receive?"
+    ],
+    -0.07125108947619048
+  ],
+  "What was the show named after the character featured in the video game Mickey's Safari in Letterland?": [
+    [
+      "What is the character featured in the video game Mickey's Safari in Letterland?",
+      "What is the show named after #1?"
+    ],
+    -0.11223088029857142
+  ],
+  "Who is the child of the creator of A Distinguished Member of the Humane Society?": [
+    [
+      "Who is the creator of A Distinguished Member of the Humane Society?",
+      "Who is the child of #1?"
+    ],
+    -0.036898338287760006
+  ],
+  "What was the old show that was named after a character that Walt Disney created in 1928 called?": [
+    [
+      "Which character did Walt Disney create in 1928?",
+      "What was the old show named after #1?"
+    ],
+    -0.13915757053045452
+  ],
+  "According to the agency that published U.S. and World Population Clock, what is the total area in square miles?": [
+    [
+      "Which agency published U.S. and World Population Clock?",
+      "What is the total area in square miles according to #1?"
+    ],
+    -0.07217179787639284
+  ],
+  "When did a storm disperse the fleet led by the English king who trusted William de Longchamp?": [
+    [
+      "Which English king trusted William de Longchamp?",
+      "When did a storm disperse the fleet led by #1?"
+    ],
+    -0.03457597177280001
+  ],
+  "What is the record label for the singer who originally sang You Belong To Me.": [
+    [
+      "Who originally sang You Belong To Me?",
+      "What is the record label of #1?"
+    ],
+    -0.05041543064119049
+  ],
+  "What is the record label of the co-writer and recording artist of Permission to Fly?": [
+    [
+      "Who is the co-writer and recording artist of Permission to Fly?",
+      "What is the record label of #1?"
+    ],
+    -0.02136534231851852
+  ],
+  "What team drafted the winner of the NBA scoring title this year?": [
+    [
+      "Who won the NBA scoring title this year?",
+      "What team drafted #1?"
+    ],
+    -0.03301293214833333
+  ],
+  "Who voices the character in Spongebob Squarepants who is named after a glowing species found in some beaches in Portugal?": [
+    [
+      "Which character in Spongebob Squarepants is named after a glowing species found in some beaches in Portugal?",
+      "Who voices #1?"
+    ],
+    -0.054679107872758606
+  ],
+  "What month did the person with whom Henry fought a short war in 1183 go away from the holy land?": [
+    [
+      "Who did Henry fight a short war with in 1183?",
+      "What month did #1 go away from the holy land?"
+    ],
+    -0.10086841620148146
+  ],
+  "Who did the producer of Big Jim McLain play in True Grit?": [
+    [
+      "Who is the producer of Big Jim McLain?",
+      "What role did #1 play in True Grit?"
+    ],
+    -0.10300151134749998
+  ],
+  "Who wrote the fictional work Doctor Fate exists in?": [
+    [
+      "What is the fictional work Doctor Fate exists in?",
+      "Who wrote #1?"
+    ],
+    -0.08342970305388889
+  ],
+  "Who is the show Hawkgirl is from by?": [
+    [
+      "What show is Hawkgirl from?",
+      "Who is #1 by?"
+    ],
+    -0.10571353329088236
+  ],
+  "When was the kingdom that Heptarchy was part of abolished?": [
+    [
+      "What kingdom was Heptarchy part of?",
+      "When was #1 abolished?"
+    ],
+    -0.08198114679444449
+  ],
+  "When was Lady Godiva's birthplace abolished?": [
+    [
+      "Where was Lady Godiva born?",
+      "When was #1 abolished?"
+    ],
+    -0.027697951793750005
+  ],
+  "By approximately what percentage did the Black Death reduce the population of the region that the Soviet Union feared invasion from?": [
+    [
+      "Which region did the Soviet Union fear invasion from?",
+      "By approximately what percentage did the Black Death reduce the population of #1?"
+    ],
+    -0.0702729141892857
+  ],
+  "As a result of the black death it is estimated that the population of the country for B\u00e2ton \u00e0 feu was reduced by how much?": [
+    [
+      "What country is B\u00e2ton \u00e0 feu located in?",
+      "As a result of the black death, what is the estimated population reduction of #1?"
+    ],
+    -0.19999440888333328
+  ],
+  "Who stars in the video \"One Last Time\" by the performer of Baby I?": [
+    [
+      "Who is the performer of Baby I?",
+      "Who stars in the video \"One Last Time\" by #1?"
+    ],
+    -0.06200410241680001
+  ],
+  "Who gives out the prize named after the author of Lectures on Jurisprudence?": [
+    [
+      "Who is the author of Lectures on Jurisprudence?",
+      "Who gives out the prize named after #1?"
+    ],
+    -0.04530199312176923
+  ],
+  "What is the largest medical school in the nation where, along with the country of citizenship of the mother of Marie Antoinette, many expelled French Jews relocated?": [
+    [
+      "What is the country of citizenship of the mother of Marie Antoinette?",
+      "What nation did many expelled French Jews relocate to, along with #1?",
+      "What is the largest medical school in #2?"
+    ],
+    -0.11565282831522726
+  ],
+  "What is the country of citizenship of the mother of Marie Antoinette?": [
+    [
+      "Who is the mother of Marie Antoinette?",
+      "What is the country of citizenship of #1?"
+    ],
+    -0.03800683050913044
+  ],
+  "Whose father was a navigator who explored the east coast of the continental region where Sergio Villanueva would later be born?": [
+    [
+      "Where was Sergio Villanueva born?",
+      "Which continental region did #1's father explore?",
+      "Whose father was a navigator who explored the east coast of #2?"
+    ],
+    -0.17303343725307688
+  ],
+  "What continent is the country located near the country of citizenship of The Book Thief's author part of?": [
+    [
+      "Which country is the author of The Book Thief a citizen of?",
+      "Which country is located near #1?",
+      "What continent is #2 part of?"
+    ],
+    -0.13278665825757577
+  ],
+  "Which country is the author of The Book Thief a citizen of?": [
+    [
+      "Who is the author of The Book Thief?",
+      "What is the country of citizenship of #1?"
+    ],
+    -0.0544880547240909
+  ],
+  "The band Pathology formed in a city whose urban area ranks where by size among the urban areas of the state where the Still Swingin' song's band formed?": [
+    [
+      "What is the state where the Still Swingin' song's band formed?",
+      "What city did the band Pathology form in?",
+      "What is the rank of #2's urban area by size among the urban areas of #1?"
+    ],
+    -0.21190751646040817
+  ],
+  "What is the state where the Still Swingin' song's band formed?": [
+    [
+      "Which band performed the song Still Swingin'?",
+      "What is the state of #1?"
+    ],
+    -0.25699615766114287
+  ],
+  "Who is the child of the Italian navigator who explored the eastern coast of the continent C\u00e9sar Gaytan was born in for the English?": [
+    [
+      "Which continent was C\u00e9sar Gaytan born in?",
+      "Which Italian navigator explored the eastern coast of #1 for the English?",
+      "Who is the child of #2?"
+    ],
+    -0.07550340763428949
+  ],
+  "Which continent was C\u00e9sar Gaytan born in?": [
+    [
+      "Who is C\u00e9sar Gaytan?",
+      "Which continent was #1 born in?"
+    ],
+    -0.05988262597473684
+  ],
+  "Where was Popper's academic appointment in the country near the country of citizenship of the person who wrote The Book Thief?": [
+    [
+      "Who wrote The Book Thief?",
+      "What is the country of citizenship of #1?",
+      "Where was Popper's academic appointment in the country near #2?"
+    ],
+    -0.090772433745
+  ],
+  "Whose navigator father explored the east coast of the region where Ignacio Esparza was later born?": [
+    [
+      "Where was Ignacio Esparza born?",
+      "Whose navigator father explored the east coast of the #1?"
+    ],
+    -0.1026254543903846
+  ],
+  "What was the 2017 population of the country where Bedari was made?": [
+    [
+      "Which country was Bedari made in?",
+      "What was the 2017 population of #1?"
+    ],
+    -0.1093130293545
+  ],
+  "How many times did plague occur in the birthplace of the person who used the spice route that the Ottoman Empire controlled?": [
+    [
+      "Who used the spice route that the Ottoman Empire controlled?",
+      "Where was #1 born?",
+      "How many times did plague occur in #2?"
+    ],
+    -0.05909712049870967
+  ],
+  "When did the place of birth of the performer of Mother-in-Law elect its first black Mayor?": [
+    [
+      "Who is the performer of Mother-in-Law?",
+      "Where was #1 born?",
+      "When did #2 elect its first black Mayor?"
+    ],
+    -0.04346461729645162
+  ],
+  "When did the city where the headquarters of Barton Premium Blend's manufacturer is located elect its first black mayor?": [
+    [
+      "Which city is the headquarters of Barton Premium Blend's manufacturer located in?",
+      "When did #1 elect its first black mayor?"
+    ],
+    -0.057944613314814805
+  ],
+  "When did the headquarters city of the Fireball Cinnamon Whiskey manufacturer elect its first black mayor?": [
+    [
+      "What is the headquarters city of the Fireball Cinnamon Whiskey manufacturer?",
+      "When did #1 elect its first black mayor?"
+    ],
+    -0.05004277902137036
+  ],
+  "When did the city where the manufacturer of Ten High is headquartered elect its first black mayor?": [
+    [
+      "Which city is the manufacturer of Ten High headquartered in?",
+      "When did #1 elect its first black mayor?"
+    ],
+    -0.05819513676916666
+  ],
+  "What is the name of the famous bridge in the birthplace of Gloria in D Major's composer?": [
+    [
+      "Where was the composer of Gloria in D Major born?",
+      "What is the name of the famous bridge in #1?"
+    ],
+    -0.05552141479615384
+  ],
+  "How many times did plague occur in the birth city of the composer of Nulla in mundo pax sincera?": [
+    [
+      "Who composed Nulla in mundo pax sincera?",
+      "Where was #1 born?",
+      "How many times did plague occur in #2?"
+    ],
+    -0.07480390733030302
+  ],
+  "How many times did the plague occur in the birth city of the composer of Scanderbeg?": [
+    [
+      "Who composed Scanderbeg?",
+      "Where was #1 born?",
+      "How many times did the plague occur in #2?"
+    ],
+    -0.08437652990785713
+  ],
+  "What UK label was bought by the broadcast company that, along with ABC and the original network of Undercovers, is one of the major broadcasters based in New York?": [
+    [
+      "Which broadcast company, along with ABC and the original network of Undercovers, is one of the major broadcasters based in New York?",
+      "What UK label was bought by #1?"
+    ],
+    -0.05271193282253847
+  ],
+  "Which broadcast company, along with ABC and the original network of Undercovers, is one of the major broadcasters based in New York?": [
+    [
+      "What is the original network of Undercovers?",
+      "Which broadcast company, along with ABC and #1, is one of the major broadcasters based in New York?"
+    ],
+    -0.08177376996329998
+  ],
+  "When is Celebrity Big Brother coming to the network which, along with ABC and the network which broadcasted Highway to Heaven, is the other major broadcaster based in NY?": [
+    [
+      "Which network broadcasted Highway to Heaven?",
+      "Which other major broadcaster is based in NY, along with ABC and #1?",
+      "When is Celebrity Big Brother coming to #2?"
+    ],
+    -0.14120279410973682
+  ],
+  "What is the three letter abbreviation for the country, which maintains border troops, that claims Bernd Baumgart as a citizen?": [
+    [
+      "Which country claims Bernd Baumgart as a citizen?",
+      "What is the three letter abbreviation for #1?",
+      "Does #1 maintain border troops?"
+    ],
+    -0.07924505789794119
+  ],
+  "Where does the body of water by the city where The Minikahda Club is located and the Ohio River meet?": [
+    [
+      "Which city is The Minikahda Club located in?",
+      "What body of water is near #1?",
+      "Where does #2 and the Ohio River meet?"
+    ],
+    -0.142428800248
+  ],
+  "Where does the body of water by the city where The Minikahda Club empty into the Gulf of Mexico?": [
+    [
+      "Which city is The Minikahda Club located in?",
+      "Where does the body of water by #1 empty into the Gulf of Mexico?"
+    ],
+    -0.08820235637741936
+  ],
+  "What is the direction of flow of the body of water by the city where The Minikahda Club is located?": [
+    [
+      "Which city is The Minikahda Club located in?",
+      "What is the direction of flow of the body of water by #1?"
+    ],
+    -0.06830551973166667
+  ],
+  "When did the team that won the AL East in 2017 last play in the series of games that the MLB MVP award is given after?": [
+    [
+      "Which team won the AL East in 2017?",
+      "What series of games does the MLB MVP award is given after?",
+      "When did #1 last play in #2?"
+    ],
+    -0.09910980976111111
+  ],
+  "What country has the border troops of the country of the literature of the country of Karl Maron citizenship?": [
+    [
+      "What is the country of Karl Maron's citizenship?",
+      "What is the literature of #1?",
+      "What country has the border troops of #2?"
+    ],
+    -0.1397967058612121
+  ],
+  "What is the country of Karl Maron's citizenship?": [
+    [
+      "Who is Karl Maron?",
+      "What is the country of #1's citizenship?"
+    ],
+    -0.04322445443684211
+  ],
+  "When did the explorer reach the headquarters location of the group Study in Brown's record label is part of?": [
+    [
+      "Which group is Study in Brown's record label part of?",
+      "Where is the headquarters location of #1?",
+      "When did the explorer reach #2?"
+    ],
+    -0.14856926948181814
+  ],
+  "What day is the feast held, in the city that holds the headquarters of the only music company that is larger than the record label of Vilaiyaadu Mankatha?": [
+    [
+      "Which city holds the headquarters of the only music company that is larger than the record label of Vilaiyaadu Mankatha?",
+      "What day is the feast held in #1?"
+    ],
+    -0.05802879807575001
+  ],
+  "Which city holds the headquarters of the only music company that is larger than the record label of Vilaiyaadu Mankatha?": [
+    [
+      "What is the record label of Vilaiyaadu Mankatha?",
+      "Which music company is larger than #1?",
+      "Which city holds the headquarters of #2?"
+    ],
+    -0.09521808196027026
+  ],
+  "When did the explorer reach the city where the only group larger than the record label of The Lost Trident Sessions is headquartered?": [
+    [
+      "What is the record label of The Lost Trident Sessions?",
+      "What is the only group larger than #1 headquartered in?",
+      "When did the explorer reach the city of #2?"
+    ],
+    -0.17010781412552628
+  ],
+  "A country was in effective control of both political and military functions of the organization the People's Socialist Republic of Albania belonged. When did this country agree to a unified Germany inside the organization that killed Gaddafi's grandsons?": [
+    [
+      "Which country was in effective control of both political and military functions of the organization the People's Socialist Republic of Albania belonged to?",
+      "Which organization killed Gaddafi's grandsons?",
+      "When did #1 agree to a unified Germany inside #2?"
+    ],
+    -0.07000418093680394
+  ],
+  "Which country was in effective control of both political and military functions of the organization the People's Socialist Republic of Albania belonged to?": [
+    [
+      "What organization did the People's Socialist Republic of Albania belong to?",
+      "Which country was in effective control of both political and military functions of #1?"
+    ],
+    -0.09680728185531251
+  ],
+  "What county shares a border with the county where She Did It's performer was born?": [
+    [
+      "Who is the performer of She Did It?",
+      "Where was #1 born?",
+      "What county shares a border with #2?"
+    ],
+    -0.1032931041985714
+  ],
+  "Where is the district that the person who wanted to reform and address Brian Nobles's religion preached a sermon on Marian devotion before his death located?": [
+    [
+      "Who wanted to reform and address Brian Nobles's religion?",
+      "Where did #1 preach a sermon on Marian devotion before his death?",
+      "Which district is #2 located in?"
+    ],
+    -0.09607678424500003
+  ],
+  "In what German state is the district where the man, who wanted the religion underlying Daraga Church to reform, preached a sermon on Marian devotion?": [
+    [
+      "Who wanted the religion underlying Daraga Church to reform?",
+      "Where did #1 preach a sermon on Marian devotion?",
+      "In what German state is the district #2 located in?"
+    ],
+    -0.15130763734552635
+  ],
+  "The German priest, who wanted Jean Hengen's religious denomination to reform, preached a sermon on Marian devotion a month before his death in what German state?": [
+    [
+      "Which German state did the German priest, who wanted Jean Hengen's religious denomination to reform, preach a sermon on Marian devotion a month before his death?",
+      "What was Jean Hengen's religious denomination?"
+    ],
+    -0.18872243151266666
+  ],
+  "When was the country established that lies immediately north of the Persian Gulf and the region where the country containing Urim is located?": [
+    [
+      "Which country lies immediately north of the Persian Gulf?",
+      "Which region is the country containing Urim located in?",
+      "When was #1 established?"
+    ],
+    -0.10473831111677416
+  ],
+  "Which country lies immediately north of the Persian Gulf?": [
+    [
+      "What country is located immediately north of the Persian Gulf?",
+      "Which country is #1?"
+    ],
+    -0.2359340820237
+  ],
+  "When was the region immediately north of the region where the country in which Aluf can be found is located and the Persian Gulf established?": [
+    [
+      "Which country is Aluf in?",
+      "What region is immediately north of the region where #1 is located?",
+      "When was the #2 and the Persian Gulf established?"
+    ],
+    -0.12920325488083334
+  ],
+  "Who burned down the death city of the artist responsible for Dunn Dunn in the war after which the first time black people declined in living in NYC?": [
+    [
+      "Which artist is responsible for Dunn Dunn?",
+      "Which war was after which the first time black people declined in living in NYC?",
+      "Who burned down the death city of #1 in #2?"
+    ],
+    -0.16553573859609752
+  ],
+  "Which artist is responsible for Dunn Dunn?": [
+    [
+      "What is the name of the song Dunn Dunn?",
+      "Who is the artist responsible for #1?"
+    ],
+    -0.12919567803318185
+  ],
+  "What county is the city that shares a border with the state capital of the state where Darlington County located in?": [
+    [
+      "Which state is Darlington County located in?",
+      "What is the state capital of #1?",
+      "What city shares a border with #2?",
+      "What county is #3 located in?"
+    ],
+    -0.09344532378449996
+  ],
+  "In which county is the city sharing a border with the capitol of the state where Borough House Plantation is located?": [
+    [
+      "What is the capitol of the state where Borough House Plantation is located?",
+      "What city shares a border with #1?",
+      "Which county is #2 located in?"
+    ],
+    -0.10487838038701622
+  ],
+  "What is the capitol of the state where Borough House Plantation is located?": [
+    [
+      "Where is Borough House Plantation located?",
+      "What is the capitol of #1?"
+    ],
+    -0.06177686516844999
+  ],
+  "What county is the city that shares a border with the state capital of the state where the RBC Heritage Golf Tournament is played in?": [
+    [
+      "What state is the RBC Heritage Golf Tournament played in?",
+      "What is the state capital of #1?",
+      "What county is the city that shares a border with #2?"
+    ],
+    -0.12528863956789477
+  ],
+  "Which county has the location that shares a border with the city that became the state capital of where Representative Thomas Tucker was from?": [
+    [
+      "Where was Representative Thomas Tucker from?",
+      "What city became the state capital of #1?",
+      "Which county has the location that shares a border with #2?"
+    ],
+    -0.09304652080382352
+  ],
+  "In which county is the city sharing a border with the capitol of the state where WYFG is located?": [
+    [
+      "What is the capitol of the state where WYFG is located?",
+      "What city shares a border with #1?",
+      "Which county is #2 located in?"
+    ],
+    -0.1069288662288472
+  ],
+  "Where did they film The Beach in the country where Bodindecha died?": [
+    [
+      "Which country is Bodindecha died in?",
+      "Where did they film The Beach in #1?"
+    ],
+    -0.1216689779695652
+  ],
+  "Where did they film The Beach in the country where Beatrice Heuser was born?": [
+    [
+      "Where was Beatrice Heuser born?",
+      "Where did they film The Beach in #1?"
+    ],
+    -0.056015831127619056
+  ],
+  "How long had China Sunergy's headquarters location been the capitol city of the area where Guangling District was located?": [
+    [
+      "Where is Guangling District located?",
+      "What is the capitol city of #1?",
+      "How long had China Sunergy's headquarters location been #2?"
+    ],
+    -0.1579658522174412
+  ],
+  "Where was the film The Beach filmed in the country where Pao Sarasin was born?": [
+    [
+      "Where was Pao Sarasin born?",
+      "Where was the film The Beach filmed in #1?"
+    ],
+    -0.06434237450063636
+  ],
+  "What year did the country where Siddhi Savetsila was born form an alliance with Japan?": [
+    [
+      "Where was Siddhi Savetsila born?",
+      "What year did #1 form an alliance with Japan?"
+    ],
+    -0.03595741318782609
+  ],
+  "What year did the country where the place of birth of Beatrice Heuser is located form an alliance with Japan?": [
+    [
+      "Where was Beatrice Heuser born?",
+      "What year did #1 form an alliance with Japan?"
+    ],
+    -0.0626286990859091
+  ],
+  "What year did the country where Ercole Manfredi was born form an alliance with Japan?": [
+    [
+      "Where was Ercole Manfredi born?",
+      "What year did #1 form an alliance with Japan?"
+    ],
+    -0.031823041438125
+  ],
+  "What was the language Auctor comes from during the era of the king who was crowned emperor of the west in 800 CE?": [
+    [
+      "Who was crowned emperor of the west in 800 CE?",
+      "What language did Auctor come from during the era of #1?"
+    ],
+    -0.15444004345607146
+  ],
+  "Who was crowned emperor of the west in 800 CE?": [
+    [
+      "In 800 CE, who was crowned emperor of the west?",
+      "#1 was the king of which language?"
+    ],
+    -0.2624535335795652
+  ],
+  "What is the average salary of a working person with the same nationality as the producer of The Wild Women of Chastity Gulch?": [
+    [
+      "Who is the producer of The Wild Women of Chastity Gulch?",
+      "What is the nationality of #1?",
+      "What is the average salary of a working person with the same nationality as #2?"
+    ],
+    -0.06598804547425002
+  ],
+  "What were the Genesis' advantages over the platform of Colorful Dragon?": [
+    [
+      "What platform was Colorful Dragon?",
+      "What were the advantages of Genesis over #1?"
+    ],
+    -0.275350746872
+  ],
+  "What were the Genesis's advantages over the platform of the game Nightshade?": [
+    [
+      "What platform was the game Nightshade released on?",
+      "What were the advantages of the Genesis over #1?"
+    ],
+    -0.18058666608559995
+  ],
+  "What were the Genesis's advantages over the console whose three letter abbreviation stood for the full console name and also featured the game Yoshi?": [
+    [
+      "What is the three letter abbreviation of the console which featured the game Yoshi?",
+      "What were the advantages of the Genesis over #1?"
+    ],
+    -0.2441439305633334
+  ],
+  "What is the three letter abbreviation of the console which featured the game Yoshi?": [
+    [
+      "Which console featured the game Yoshi?",
+      "What is the three letter abbreviation of #1?"
+    ],
+    -0.07506672280190475
+  ],
+  "When was the last time the sports team having Trevor Dark as a member beat the winner of 1894\u201395 FA Cup?": [
+    [
+      "Which sports team has Trevor Dark as a member?",
+      "Which team won the 1894\u201395 FA Cup?",
+      "When was the last time #1 beat #2?"
+    ],
+    -0.11856173818333332
+  ],
+  "Which sports team has Trevor Dark as a member?": [
+    [
+      "Who is Trevor Dark?",
+      "Which sports team has #1 as a member?"
+    ],
+    -0.08719996030277778
+  ],
+  "When was the last time the team that Malcolm Briggs was a member of beat the 1894-95 FA cup winner?": [
+    [
+      "Which team did Malcolm Briggs belong to?",
+      "Which team won the 1894-95 FA cup?",
+      "When was the last time #1 beat #2?"
+    ],
+    -0.11733365120999997
+  ],
+  "When was the last time the team Matthew Webb was a member of beat the winner of the 1894-95 FA Cup?": [
+    [
+      "Which team was Matthew Webb a member of?",
+      "Which team won the 1894-95 FA Cup?",
+      "When was the last time #1 beat #2?"
+    ],
+    -0.07037195442371427
+  ],
+  "When was the last time Johnny Newman's team beat the 1894\u201395 FA Cup winner?": [
+    [
+      "Which team did Johnny Newman play for?",
+      "Which team won the 1894\u201395 FA Cup?",
+      "When was the last time #1 beat #2?"
+    ],
+    -0.08366778018617647
+  ],
+  "What percentage of Eritrea is estimated to adhere to the religion widely practiced in the region with the 2nd largest rain-forest in the world?": [
+    [
+      "Which region has the 2nd largest rain-forest in the world?",
+      "What religion is widely practiced in #1?",
+      "What percentage of Eritrea is estimated to adhere to #2?"
+    ],
+    -0.06748196034074999
+  ],
+  "When did the country where the top-ranking Warsaw Pact operatives originated, despite its being headquartered in the nation known as the nobilities commonwealth, become allies with the US?": [
+    [
+      "Which country is the top-ranking Warsaw Pact operatives originated from?",
+      "Which nation is known as the Nobilities Commonwealth?",
+      "When did #1 become allies with the US, despite its being headquartered in #2?"
+    ],
+    -0.18394129429000003
+  ],
+  "Which country is the top-ranking Warsaw Pact operatives originated from?": [
+    [
+      "Where did the top-ranking Warsaw Pact operatives originate from?",
+      "Which country is #1 located in?"
+    ],
+    -0.1848658490204348
+  ],
+  "Who controlled the holy land where the brand of Christianity practiced in the country where Vasilopita is lasted up until the 7th century?": [
+    [
+      "Which country is Vasilopita located in?",
+      "What brand of Christianity was practiced in #1 up until the 7th century?",
+      "Who controlled the holy land where #2 was practiced?"
+    ],
+    -0.15329470845170728
+  ],
+  "What was Germany's main goal in the battle of the ocean region adjacent to the city where WIOD is licensed?": [
+    [
+      "Which city is WIOD licensed to broadcast?",
+      "What was Germany's main goal in the battle of the ocean region adjacent to #1?"
+    ],
+    -0.06993404366700001
+  ],
+  "Where does the ocean adjacent to Miami meet the ocean basin at where the tropical Storm Allison ended up?": [
+    [
+      "What ocean basin did tropical Storm Allison end up in?",
+      "Which ocean is adjacent to Miami?",
+      "Where does #2 meet #1?"
+    ],
+    -0.17370098618
+  ],
+  "Who was the first elected president of the country where, along with the nation where \u00c1gnes Konkoly is from, many expelled French Jews relocated to?": [
+    [
+      "Which nation is \u00c1gnes Konkoly from?",
+      "Which country, along with #1, many expelled French Jews relocated to?",
+      "Who was the first elected president of #2?"
+    ],
+    -0.10697961880004879
+  ],
+  "Which nation is \u00c1gnes Konkoly from?": [
+    [
+      "Who is \u00c1gnes Konkoly?",
+      "Which nation is #1 from?"
+    ],
+    -0.033662650938000006
+  ],
+  "What forced the departure from the country responsible for Phoe Pyonn Cho of the people once defied by new coinage?": [
+    [
+      "Which country is responsible for Phoe Pyonn Cho?",
+      "What people were once defied by new coinage?",
+      "What forced the departure from #1 of #2?"
+    ],
+    -0.11764246946972975
+  ],
+  "How long are the council terms in the second largest city in the US state focused by the cross-border transactions committee of the Department of Real Estate?": [
+    [
+      "Which US state is the cross-border transactions committee of the Department of Real Estate focused on?",
+      "What is the second largest city in #1?",
+      "How long are the council terms in #2?"
+    ],
+    -0.06342845704418605
+  ],
+  "What field of work was the person who discovered the mathematical relationship between peaks and curves of light at different temperatures in?": [
+    [
+      "Who discovered the mathematical relationship between peaks and curves of light at different temperatures?",
+      "What field of work was #1 in?"
+    ],
+    -0.016216111415925924
+  ],
+  "According to Pew, in 2010, what percent of Nigeria's population practiced the religion of most of the workers?": [
+    [
+      "What religion do most of the workers practice?",
+      "According to Pew, in 2010, what percent of Nigeria's population practiced #1?"
+    ],
+    -0.12367975929827589
+  ],
+  "The actor who plays Barney in \"How I Met Your Mother\" plays what character in Batman Under the Red Hood?": [
+    [
+      "Who plays Barney in How I Met Your Mother?",
+      "What character does #1 play in Batman Under the Red Hood?"
+    ],
+    -0.08074908851846155
+  ],
+  "Which county is the birth place of Keith Sebelius located at?": [
+    [
+      "Where was Keith Sebelius born?",
+      "Which county is #1 located in?"
+    ],
+    -0.054040543351578964
+  ],
+  "Who was the first African American student at the university Robert Khayat was educated at?": [
+    [
+      "Which university was Robert Khayat educated at?",
+      "Who was the first African American student at #1?"
+    ],
+    -0.028460324760249997
+  ],
+  "Where is the base of the newspaper saying if you find yourself in a hole stop digging?": [
+    [
+      "What is the newspaper saying if you find yourself in a hole stop digging?",
+      "Where is the base of #1?"
+    ],
+    -0.11597530944038459
+  ],
+  "What state contains the place where Fatata te Miti is displayed?": [
+    [
+      "Where is Fatata te Miti displayed?",
+      "Which state is #1 located in?"
+    ],
+    -0.0755535972805
+  ],
+  "What is the body of water that St. Matthew Island located in named after?": [
+    [
+      "Where is St. Matthew Island located?",
+      "What is the name of the body of water #1 is located in?"
+    ],
+    -0.09483855982807692
+  ],
+  "Where was the first woman appointed to the Supreme Court educated?": [
+    [
+      "Who was the first woman appointed to the Supreme Court?",
+      "Where was #1 educated?"
+    ],
+    -0.025991100149000003
+  ],
+  "When did the performer of Goosebumpz release best day ever?": [
+    [
+      "Who is the performer of Goosebumpz?",
+      "When did #1 release best day ever?"
+    ],
+    -0.04744476245909091
+  ],
+  "When did the performer of Watching Movies release Best Day Ever?": [
+    [
+      "Who is the performer of Watching Movies?",
+      "When did #1 release Best Day Ever?"
+    ],
+    -0.02237931872
+  ],
+  "The city where Dmitry Borisovich was born is located where in Russia?": [
+    [
+      "Where was Dmitry Borisovich born?",
+      "What region in Russia is #1 located in?"
+    ],
+    -0.13817154102
+  ],
+  "What is the date of birth for the performer of Unbreakable?": [
+    [
+      "Who is the performer of Unbreakable?",
+      "What is the date of birth of #1?"
+    ],
+    -0.04096749479363636
+  ],
+  "On what date did the creator of The Blind Girl die?": [
+    [
+      "Who is the creator of The Blind Girl?",
+      "On what date did #1 die?"
+    ],
+    -0.03975278782999998
+  ],
+  "What is the birth date of the By Your Side performer?": [
+    [
+      "Who is the performer of By Your Side?",
+      "What is the birth date of #1?"
+    ],
+    -0.021748540722380954
+  ],
+  "What is the Smile performer's birthday?": [
+    [
+      "Who is the performer of Smile?",
+      "When is #1's birthday?"
+    ],
+    -0.12092833135411762
+  ],
+  "What is the body of water by the area where Athlete was formed?": [
+    [
+      "Where was Athlete formed?",
+      "What is the body of water by #1?"
+    ],
+    -0.08490358825578947
+  ],
+  "When was the star to which Solgr\u00e4nd is named after discovered to be the center of the solar system?": [
+    [
+      "What star is Solgr\u00e4nd named after?",
+      "When was #1 discovered to be the center of the solar system?"
+    ],
+    -0.04187447163296296
+  ],
+  "When was the celestial body that all objects focus on according to Kepler's laws discovered to be the center of the solar system?": [
+    [
+      "Which celestial body do all objects focus on according to Kepler's laws?",
+      "When was #1 discovered to be the center of the solar system?"
+    ],
+    -0.06402933682032258
+  ],
+  "What watercourse is the river on which the Lostock Dam is located the mouth of?": [
+    [
+      "Where is the Lostock Dam located?",
+      "What watercourse is #1 the mouth of?"
+    ],
+    -0.08803572769285714
+  ],
+  "Who did Hayek work for after being hired by the author of Human Action?": [
+    [
+      "Who is the author of Human Action?",
+      "Who did #1 hire Hayek to work for?"
+    ],
+    -0.08283417691636363
+  ],
+  "What record label does the performer of Adventures in Your Own Backyard belong to?": [
+    [
+      "Who is the performer of Adventures in Your Own Backyard?",
+      "What record label does #1 belong to?"
+    ],
+    -0.022272548858333338
+  ],
+  "Who was the mother of the person who found the sacred writings that became the Book of Mormon?": [
+    [
+      "Who found the sacred writings that became the Book of Mormon?",
+      "Who was the mother of #1?"
+    ],
+    -0.0385486198026087
+  ],
+  "What season was the performer of Addicted a part of?": [
+    [
+      "Who is the performer of Addicted?",
+      "What season was #1 a part of?"
+    ],
+    -0.0375496232725
+  ],
+  "When did the location of the head of the catholic religion with a basilica named after the same saint as Mantua Cathedral become its own country?": [
+    [
+      "What is the location of the head of the catholic religion with a basilica named after the same saint as Mantua Cathedral?",
+      "When did #1 become its own country?"
+    ],
+    -0.05597997447836842
+  ],
+  "What is the location of the head of the catholic religion with a basilica named after the same saint as Mantua Cathedral?": [
+    [
+      "What is the name of the basilica named after the same saint as Mantua Cathedral?",
+      "What is the location of the head of the catholic religion with #1?"
+    ],
+    -0.15112149345540538
+  ],
+  "What is the name of the basilica named after the same saint as Mantua Cathedral?": [
+    [
+      "What is the name of the saint of Mantua Cathedral?",
+      "What is the name of the basilica named after #1?"
+    ],
+    -0.12944550505428573
+  ],
+  "When was the end of the Governor of the city containing the head of Catholicism, and the Basilica named for the saint who the Mantua Cathedral is also named for?": [
+    [
+      "What is the city containing the head of Catholicism?",
+      "What is the name of the Basilica named for the saint who the Mantua Cathedral is also named for?",
+      "When was the end of the Governor of #1 and #2?"
+    ],
+    -0.1452306521236
+  ],
+  "What is the city containing the head of Catholicism?": [
+    [
+      "Who is the head of Catholicism?",
+      "What is the city of #1?"
+    ],
+    -0.09873573461499999
+  ],
+  "When did the Governorship end of the city where the author of Sacerdotii Nostri Primordia died?": [
+    [
+      "Who is the author of Sacerdotii Nostri Primordia?",
+      "Where did #1 die?",
+      "When did the Governorship end of #2?"
+    ],
+    -0.05115439194999998
+  ],
+  "When did the place where Mater et Magistra's author died become its own country?": [
+    [
+      "Where did Mater et Magistra's author die?",
+      "When did #1 become its own country?"
+    ],
+    -0.07917314311404165
+  ],
+  "Where are NASCAR races held in the city in the same county as Allen?": [
+    [
+      "Which county is Allen located in?",
+      "What city is in the same county as #1?",
+      "Where are NASCAR races held in #2?"
+    ],
+    -0.14185621689677422
+  ],
+  "In 1900, what was the population of the city in the same county as Allen?": [
+    [
+      "Which county is Allen in?",
+      "What was the population of the city in #1 in 1900?"
+    ],
+    -0.12882534859545453
+  ],
+  "How long are the council terms of the city that shares a county with Helvetia?": [
+    [
+      "Which city shares a county with Helvetia?",
+      "How long are the council terms of #1?"
+    ],
+    -0.058842322517391306
+  ],
+  "What is the administrative territorial entity that contains the location of Eric Marcus Municipal Airport PBS station?": [
+    [
+      "Where is Eric Marcus Municipal Airport PBS station located?",
+      "What is the administrative territorial entity that contains #1?"
+    ],
+    -0.07689172756666666
+  ],
+  "What is the performer of Heartbeat named after?": [
+    [
+      "Who is the performer of Heartbeat?",
+      "What is #1 named after?"
+    ],
+    -0.024784118869444444
+  ],
+  "What is the mouth of watercourse for the body of water where Bartram's Covered Bridge is located?": [
+    [
+      "Where is Bartram's Covered Bridge located?",
+      "What is the mouth of watercourse for the #1?"
+    ],
+    -0.07813321698224
+  ],
+  "In which state is Vera Barbosa's place of birth located?": [
+    [
+      "Where was Vera Barbosa born?",
+      "Which state is #1 located in?"
+    ],
+    -0.025112140822222226
+  ],
+  "In which state is P\u00f3voa de Santa Iria's municipality located?": [
+    [
+      "What is the municipality of P\u00f3voa de Santa Iria?",
+      "Which state is #1 located in?"
+    ],
+    -0.1144746311298
+  ],
+  "Who is the father of the Labo M performer?": [
+    [
+      "Who is the Labo M performer?",
+      "Who is the father of #1?"
+    ],
+    -0.03596488346789474
+  ],
+  "Who is the father of the performer of Qui de noux deux?": [
+    [
+      "Who is the performer of Qui de noux deux?",
+      "Who is the father of #1?"
+    ],
+    -0.016615664822916664
+  ],
+  "What company merged in 2002 with the CEMM developer?": [
+    [
+      "Who developed CEMM?",
+      "What company merged with #1 in 2002?"
+    ],
+    -0.11395738825666665
+  ],
+  "Who has played for both West Ham Ajax and the team that Adam Hammill is on?": [
+    [
+      "Which team is Adam Hammill on?",
+      "Who has played for both West Ham Ajax and #1?"
+    ],
+    -0.08178226969347828
+  ],
+  "A country's military branch, which in the US contains the Air Defense Artillery, was unprepared for the invasion of the country that experienced a normalization period. The unprepared country was the only communist country to have an embassy where?": [
+    [
+      "Which country experienced a normalization period?",
+      "Which country's military branch, which in the US contains the Air Defense Artillery, was unprepared for the invasion of #1?",
+      "The #2 was the only communist country to have an embassy where?"
+    ],
+    -0.10310286905673077
+  ],
+  "Which country experienced a normalization period?": [
+    [
+      "What is the normalization period?",
+      "Which country experienced #1?"
+    ],
+    -0.23667075847187505
+  ],
+  "A country's military branch, the equivalent of which in the US contains the Air Defense Artillery, was unprepared for the invasion of the country that developed the ZH-29. When was the word \"Slavs\" used in the national anthem of the unprepared country?": [
+    [
+      "Which country developed the ZH-29?",
+      "What is the equivalent of the US Air Defense Artillery in the unprepared country?",
+      "When was the word 'Slavs' used in the national anthem of #2?"
+    ],
+    -0.11998599929723404
+  ],
+  "Which country developed the ZH-29?": [
+    [
+      "What is the ZH-29?",
+      "Which country developed #1?"
+    ],
+    -0.07523199011117648
+  ],
+  "What is the longest win streak, in the history of the league, that includes the team with the most titles, from the event preceding the awarding of the MLB MVP?": [
+    [
+      "Which team has the most titles in the history of the league?",
+      "What event precedes the awarding of the MLB MVP?",
+      "What is the longest win streak in the history of the league that includes #1 from #2?"
+    ],
+    -0.17749870111979163
+  ],
+  "What's the longest homer in the history of the league where the team with the most titles from the event after which they give out the MLB MVP award plays?": [
+    [
+      "Which team has the most titles from the event after which they give out the MLB MVP award?",
+      "What is the longest homer in the history of the league #1 plays in?"
+    ],
+    -0.13593723193684212
+  ],
+  "When is the opening day of the league in which the team with the most games in the series after which the MLB MVP is awarded plays?": [
+    [
+      "Which team has the most games in the series after which the MLB MVP is awarded?",
+      "When is the opening day of the league in which #1 plays?"
+    ],
+    -0.08177431350588234
+  ],
+  "Despite being located in East Belgium, the Carnival of the birth place of Guido Maus harks purely to an area. What was the language having the same name as this area of the era with Fastrada's spouse's name later known as?": [
+    [
+      "What is the birth place of Guido Maus?",
+      "What area does the Carnival of #1 hark purely to?",
+      "What was the language having the same name as #2 of the era with Fastrada's spouse's name later known as?"
+    ],
+    -0.1399269223321667
+  ],
+  "What is the birth place of Guido Maus?": [
+    [
+      "Who is Guido Maus?",
+      "Where was #1 born?"
+    ],
+    -0.042188624740875
+  ],
+  "What is the seat of the county sharing a border with the county where Tenement was founded?": [
+    [
+      "Which county is Tenement founded in?",
+      "What county shares a border with #1?",
+      "What is the seat of #2?"
+    ],
+    -0.09421947356551724
+  ],
+  "What is the seat of the county sharing a border with the county in which J.P. Hayes was born?": [
+    [
+      "Where was J.P. Hayes born?",
+      "What county shares a border with #1?",
+      "What is the seat of #2?"
+    ],
+    -0.05876873482000002
+  ],
+  "What is the birthplace of the man who does the voice of Stan on the series that includes the episode The Hobbit?": [
+    [
+      "Who does the voice of Stan on the series that includes the episode The Hobbit?",
+      "Where was #1 born?"
+    ],
+    -0.057047950014
+  ],
+  "Who is the president of the newly declared independent country that is part of the Commission of Truth and Friendship with the country that Tony Gunawan is from?": [
+    [
+      "What country is Tony Gunawan from?",
+      "What is the newly declared independent country that is part of the Commission of Truth and Friendship with #1?",
+      "Who is the president of #2?"
+    ],
+    -0.0917133844978049
+  ],
+  "What country is Tony Gunawan from?": [
+    [
+      "Who is Tony Gunawan?",
+      "What is the country of #1?"
+    ],
+    -0.05505421447470588
+  ],
+  "Who is the president of the newly declared independent country part of the Commission of Truth and Friendship with the country that made Arisan!?": [
+    [
+      "Which country made Arisan!?",
+      "What is the name of the newly declared independent country part of the Commission of Truth and Friendship with #1?",
+      "Who is the president of #2?"
+    ],
+    -0.11245356420317072
+  ],
+  "Which country made Arisan!?": [
+    [
+      "What is the name of the movie Arisan!?",
+      "Which country made #1?"
+    ],
+    -0.09762564234900001
+  ],
+  "Who is the president of the newly declared independent country that is part of the Commission of Truth and Friendship with the country where Sumardi was born?": [
+    [
+      "Which country is Sumardi born in?",
+      "What is the newly declared independent country that is part of the Commission of Truth and Friendship with #1?",
+      "Who is the president of #2?"
+    ],
+    -0.11789914941707318
+  ],
+  "Which country is Sumardi born in?": [
+    [
+      "Who is Sumardi?",
+      "Which country is #1 born in?"
+    ],
+    -0.07328387226499998
+  ],
+  "Who is president of the newly declared independent country that is part of the Commission of Truth and Friendship with the country where Opor originated?": [
+    [
+      "Which country is part of the Commission of Truth and Friendship with the country where Opor originated?",
+      "Who is the president of #1?"
+    ],
+    -0.09351096327466667
+  ],
+  "Which country is part of the Commission of Truth and Friendship with the country where Opor originated?": [
+    [
+      "Which country is Opor originated from?",
+      "Which country is part of the Commission of Truth and Friendship with #1?"
+    ],
+    -0.12771594024038463
+  ],
+  "What is the place of birth of who does the voice of stan on the series that Insecurity is part of?": [
+    [
+      "Who does the voice of Stan on the series that Insecurity is part of?",
+      "What is the place of birth of #1?"
+    ],
+    -0.06133000587137931
+  ],
+  "What is the Arabic dictionary meaning, of the word for the majority religion in the part of British India, that became India when the country that released Mushkil was created?": [
+    [
+      "What is the majority religion in the part of British India, that became India when the country that released Mushkil was created?",
+      "What is the Arabic dictionary meaning of #1?"
+    ],
+    -0.09873756660157895
+  ],
+  "What is the majority religion in the part of British India, that became India when the country that released Mushkil was created?": [
+    [
+      "Which country released the movie Mushkil?",
+      "What was the majority religion in the part of British India, that became India when #1 was created?"
+    ],
+    -0.16242789245625
+  ],
+  "In the Arabic dictionary, what's the meaning of the word for the majority religion in the area of British India that became India when Dourkhan's country was created?": [
+    [
+      "What is the majority religion in the area of British India that became India when Dourkhan's country was created?",
+      "In the Arabic dictionary, what is the meaning of #1?"
+    ],
+    -0.1094781671635
+  ],
+  "What is the majority religion in the area of British India that became India when Dourkhan's country was created?": [
+    [
+      "When was Dourkhan's country created?",
+      "What was the majority religion in the area of British India that became India when #1 was created?"
+    ],
+    -0.09796883639242425
+  ],
+  "What is the population of the state where Dukes of Hazzard took place?": [
+    [
+      "Where did Dukes of Hazzard take place?",
+      "What is the population of #1?"
+    ],
+    -0.0729732243222727
+  ],
+  "When was the signing of the treaty named for the city where Beyonc\u00e9 got pregnant?": [
+    [
+      "Which city did Beyonc\u00e9 get pregnant in?",
+      "What treaty is named for #1?",
+      "When was the signing of #2?"
+    ],
+    -0.18244712301689656
+  ],
+  "Who has the most wins in the league that wins the All Star Game more often?": [
+    [
+      "Which league wins the All Star Game more often?",
+      "Who has the most wins in #1?"
+    ],
+    -0.03425024466909092
+  ],
+  "What was the 2018 population of the Italian city that's underwater?": [
+    [
+      "Which Italian city is underwater?",
+      "What was the 2018 population of #1?"
+    ],
+    -0.06288942376833334
+  ],
+  "In 1990, who became the president of the country that Germany invaded?": [
+    [
+      "Which country did Germany invade?",
+      "In 1990, who became the president of #1?"
+    ],
+    -0.10298226543100002
+  ],
+  "What was an economic effect of the war during which Hayek started working on Abuse of Reason?": [
+    [
+      "When did Hayek start working on Abuse of Reason?",
+      "What was an economic effect of the #1?"
+    ],
+    -0.11230800483250002
+  ],
+  "When did Hayek start working on Abuse of Reason?": [
+    [
+      "Who wrote Abuse of Reason?",
+      "When did #1 start working on Abuse of Reason?"
+    ],
+    -0.0640580868365
+  ],
+  "Why did Roncalli leave the place where Francesco Fontebasso resided when he died?": [
+    [
+      "Where did Francesco Fontebasso reside when he died?",
+      "Why did Roncalli leave #1?"
+    ],
+    -0.027325498481999996
+  ],
+  "What happened to Buckingham after the departure of the queen who Martha Ann Ricks presented the famed Liberian coffee tree to?": [
+    [
+      "Who presented the famed Liberian coffee tree to the queen?",
+      "What happened to Buckingham after the departure of #1?"
+    ],
+    -0.12408047467307691
+  ],
+  "Who presented the famed Liberian coffee tree to the queen?": [
+    [
+      "Who is Martha Ann Ricks?",
+      "What did #1 present to the queen?"
+    ],
+    -0.13879248939421057
+  ],
+  "In which country is the province where Serbian and Croatian languages are both official?": [
+    [
+      "Which province has Serbian and Croatian languages as official languages?",
+      "Which country is #1 located in?"
+    ],
+    -0.18858535648636365
+  ],
+  "What did the actress in My Fair Lady win a Tony for?": [
+    [
+      "Who is the actress in My Fair Lady?",
+      "What did #1 win a Tony for?"
+    ],
+    -0.030512826133809526
+  ],
+  "For what did the singer of the original version of Moon River win a Tony award?": [
+    [
+      "Who sang the original version of Moon River?",
+      "What did #1 win a Tony award for?"
+    ],
+    -0.09230263595727273
+  ],
+  "What movement does the creator of the Washington Monument belong to?": [
+    [
+      "Who created the Washington Monument?",
+      "What movement does #1 belong to?"
+    ],
+    -0.07360155341294117
+  ],
+  "What was the story of the character from The Bourne Deception based on?": [
+    [
+      "Who is the character from The Bourne Deception?",
+      "What is the story of #1 based on?"
+    ],
+    -0.09472525383333334
+  ],
+  "Who plays the legendary figure featured in Historia Regum Britanniae in the show Once Upon a Time?": [
+    [
+      "Which legendary figure is featured in Historia Regum Britanniae in the show Once Upon a Time?",
+      "Who plays #1 in the show?"
+    ],
+    -0.10102772268806451
+  ],
+  "Who is the sibling of the screenwriter of War of the Coprophages?": [
+    [
+      "Who is the screenwriter of War of the Coprophages?",
+      "Who is the sibling of #1?"
+    ],
+    -0.03374981469166667
+  ],
+  "Where do greyhound buses leave from in the city where the performer of Darlings formed?": [
+    [
+      "Who is the performer of Darlings?",
+      "Where was #1 formed?",
+      "Where do greyhound buses leave from in #2?"
+    ],
+    -0.09703715608780002
+  ],
+  "What is the name of the castle found in the birthplace of the performer of The Speckless Sky?": [
+    [
+      "Who is the performer of The Speckless Sky?",
+      "Where was #1 born?",
+      "What is the name of the castle found in #2?"
+    ],
+    -0.045519379039999995
+  ],
+  "When did the party Oklahoma's US Senators come from take control of the body determining the rules of the US House and US Senate?": [
+    [
+      "Which party do Oklahoma's US Senators come from?",
+      "What body determines the rules of the US House and US Senate?",
+      "When did #1 take control of #2?"
+    ],
+    -0.07236887259270267
+  ],
+  "What is the name of the castle in the city where the performers of Spirit If.. became a band?": [
+    [
+      "Where did the performers of Spirit If.. become a band?",
+      "What is the name of the castle in #1?"
+    ],
+    -0.07686851582076923
+  ],
+  "Where do greyhound buses leave from in the city where the performer of Spirit If... was formed?": [
+    [
+      "Who is the performer of Spirit If...?",
+      "Where was #1 formed?",
+      "Where do greyhound buses leave from in #2?"
+    ],
+    -0.11897807195066665
+  ],
+  "What is the name of the castle in the city where the performer of A Collection 1984\u20131989 was born?": [
+    [
+      "Who is the performer of A Collection 1984\u20131989?",
+      "Where was #1 born?",
+      "What is the name of the castle in #2?"
+    ],
+    -0.0441882350209375
+  ],
+  "When did the majority party of the branch of government that the President calls to support appointments to the USAF gain control in the House?": [
+    [
+      "Which branch of government does the President call to support appointments to the USAF?",
+      "When did the majority party of #1 gain control in the House?"
+    ],
+    -0.055759915666875
+  ],
+  "What is the name of the castle in the headquarters of the company that employs Arna Selznick?": [
+    [
+      "Where is the headquarters of the company that employs Arna Selznick?",
+      "What is the name of the castle in #1?"
+    ],
+    -0.08423574132482761
+  ],
+  "Where is the headquarters of the company that employs Arna Selznick?": [
+    [
+      "Who is Arna Selznick employed by?",
+      "Where is the headquarters of #1?"
+    ],
+    -0.06800173686
+  ],
+  "When was the last time Gary Rowett's team beat the 1894-95 FA Cup winner?": [
+    [
+      "Which team won the 1894-95 FA Cup?",
+      "Which team does Gary Rowett manage?",
+      "When was the last time #2 beat #1?"
+    ],
+    -0.09250982246823528
+  ],
+  "What does SEAL stand for in the branch of military that operates USS Mahan?": [
+    [
+      "Which branch of military operates USS Mahan?",
+      "What does SEAL stand for in #1?"
+    ],
+    -0.051778820928571424
+  ],
+  "What does seal stand for in the operator of the list of destroyer classes of the operator of the USS Tringa seals?": [
+    [
+      "Who is the operator of the list of destroyer classes of the USS Tringa seals?",
+      "What does SEAL stand for in #1?"
+    ],
+    -0.11215127658466667
+  ],
+  "What was Nintendo's limit on games per developer per year on the platform that plays Drac's Night Out?": [
+    [
+      "What platform plays Drac's Night Out?",
+      "What was Nintendo's limit on games per developer per year on #1?"
+    ],
+    -0.07935146159307692
+  ],
+  "What does seal stand for in the U.S. military branch that operates destroyers, as well as the USS Edsall?": [
+    [
+      "Which U.S. military branch operates destroyers, as well as the USS Edsall?",
+      "What does SEAL stand for in #1?"
+    ],
+    -0.052538145897187506
+  ],
+  "What does SEAL stand for in the military group that is part of the branch that operates the USS Chillicothe?": [
+    [
+      "Which branch of the military operates the USS Chillicothe?",
+      "What does SEAL stand for in #1?"
+    ],
+    -0.09028127283125
+  ],
+  "Who is the owner of the record label of the Please Remember Me performer?": [
+    [
+      "Who is the performer of Please Remember Me?",
+      "Who is the owner of the record label of #1?"
+    ],
+    -0.0544671198925
+  ],
+  "Who owns the record label of the Another Page performer?": [
+    [
+      "Who is the performer of Another Page?",
+      "Who owns the record label of #1?"
+    ],
+    -0.06170129399700001
+  ]
+}

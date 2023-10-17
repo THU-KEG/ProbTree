@@ -1,0 +1,28 @@
+Given a question and the relevant Wikipedia text, answer the question and explain why. If you are unsure, answer Unknown.
+
+#1 Wikipedia Title: 2014 Liqui Moly Bathurst 12 Hour
+Text: The 2014 Liqui Moly Bathurst 12 Hour was an endurance race for a variety of GT and touring car classes, including: GT3 cars, GT4 cars and Group 3E Series Production Cars. The event, which was staged at the Mount Panorama Circuit, near Bathurst, in New South Wales, Australia on 9 February 2014, was the twelfth running of the Bathurst 12 Hour.
+#2 Wikipedia Title: 2015 Liqui Moly Bathurst 12 Hour
+Text: The 2015 Liqui Moly Bathurst 12 Hour was an endurance race for a variety of GT and touring car classes, including: GT3 cars, GT4 cars and Group 3E Series Production Cars. The event, which was staged at the Mount Panorama Circuit, near Bathurst, in New South Wales, Australia on 8 February 2015, was the thirteenth running of the Bathurst 12 Hour.
+#3 Wikipedia Title: 2013 Liqui Moly Bathurst 12 Hour
+Text: The 2013 Liqui Moly Bathurst 12 Hour was an endurance race for a variety of GT and touring car classes, including: GT3 cars, GT4 cars, Group 3E Series Production Cars and Dubai 24 Hour cars. The event, which was staged at the Mount Panorama Circuit, near Bathurst, in New South Wales, Australia on 10 February 2013, was the eleventh running of the Bathurst 12 Hour. The race also incorporated the opening round of the 2013 Australian GT Championship. The Australian GT Championship was to compete as the first hour only and cars were permitted to enter for only that hour or to cross-enter for both the first hour and continue for the endurance race.
+Q: Which track was the 2013 Liqui Moly Bathurst 12 Hour was staged?
+A: The 2013 Liqui Moly Bathurst 12 Hour was staged at the Mount Panorama Circuit. So the answer is: Mount Panorama Circuit.
+
+#1 Wikipedia Title: So Long, See You Tomorrow (album)
+Text: So Long, See You Tomorrow is the fourth album by the London indie rock band Bombay Bicycle Club, released on 3 February 2014. The album is named after the novel of the same name by William Maxwell.
+#2 Wikipedia Title: Hallelujah I Love Her So
+Text: ``Hallelujah I Love Her So ''Single by Ray Charles from the album Ray Charles (or, Hallelujah I Love Her So) B - side`` What Would I Do Without You'' Released 1956 Format 7 ''45rpm Recorded 1956 Genre soul rhythm and blues Length 2: 35 Label Atlantic Songwriter (s) Ray Charles Producer (s) Jerry Wexler Ray Charles singles chronology ``A Fool for You'' (1955)`` Hallelujah I Love Her So ''(1956) ``Mary Ann'' (1956)`` A Fool for You ''(1955) ``Hallelujah I Love Her So'' (1956)`` Mary Ann ''(1956)
+#3 Wikipedia Title: The First Time Ever I Saw Your Face
+Text: ``The First Time Ever I Saw Your Face ''Single by Roberta Flack from the album First Take Released March 7, 1972 (1972 - 03 - 07) Recorded 1969 Genre Soul vocal jazz Length 5: 22 4: 15 (1972 radio edit) Label Atlantic 2864 Songwriter (s) Ewan MacColl Producer (s) Joel Dorn Roberta Flack singles chronology`` Will You Still Love Me Tomorrow'' (1972) ``The First Time Ever I Saw Your Face ''(1972)`` Where Is the Love'' (1972) ``Will You Still Love Me Tomorrow ''(1972)`` The First Time Ever I Saw Your Face'' (1972) ``Where Is the Love ''(1972)
+Q: Is the performer of So Long, See You Tomorrow Bombay Bicycle Club?
+A: The performer of So Long, See You Tomorrow is Bombay Bicycle Club. So the answer is: yes.
+
+#1 Wikipedia Title: Oberoi family
+Text: The Oberoi family is an Indian family that is famous for its involvement in hotels, namely through The Oberoi Group.
+#2 Wikipedia Title: The Oberoi Group
+Text: The Oberoi Group is a hotel company with its head office in Delhi. Founded in 1934, the company owns and/or operates 30+ luxury hotels and two river cruise ships in six countries, primarily under its Oberoi Hotels & Resorts and Trident Hotels brands.
+#3 Wikipedia Title: Mohan Singh Oberoi
+Text: Rai Bahadur Mohan Singh Oberoi (15 August 1898 – 3 May 2002) was an Indian hotelier, the founder and chairman of Oberoi Hotels & Resorts, India's second-largest hotel company, with 35 hotels in India, Sri Lanka, Nepal, Egypt, Australia and Hungary.
+Q: The Oberoi family is part of which hotel company?
+A: The Oberoi family is part of the hotel company The Oberoi Group. So the answer is: The Oberoi Group.
