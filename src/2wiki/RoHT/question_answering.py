@@ -2,7 +2,7 @@ from openai_req import OpenaiReq
 import requests
 import os
 
-serp_api_key = "500c65d7cf630509c2a19ef22f72dfdbeedb5023e7ff8857dff3a0a7481bf826"#@param {type:"string"}
+serp_api_key = ""#@param {type:"string"}
 os.environ["SERP_API_KEY"] = serp_api_key
 
 openai_caller = OpenaiReq()
